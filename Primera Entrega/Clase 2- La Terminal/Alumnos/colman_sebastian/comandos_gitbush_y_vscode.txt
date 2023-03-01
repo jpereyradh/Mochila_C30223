@@ -1,0 +1,65 @@
+   00:51:22  Intro_Informatica 
+➜ ls
+Actividad_Terminal/  Mochila_C30223/
+   00:51:34  Intro_Informatica  ﮫ 169ms 
+➜ ls
+Actividad_Terminal/  Mochila_C30223/
+   00:52:09  Intro_Informatica  ﮫ 163ms 
+➜ cd Mochila_C30223
+   00:52:26  Mochila_C30223  colman_sebastian  ﮫ 115ms 
+➜ git status
+On branch colman_sebastian
+nothing to commit, working tree clean
+   00:52:43  Mochila_C30223  colman_sebastian  ﮫ 244ms 
+➜ cd ..
+   00:53:10  Intro_Informatica  ﮫ 112ms 
+➜ ls
+Actividad_Terminal/  Mochila_C30223/
+   00:53:12  Intro_Informatica  ﮫ 157ms 
+➜ mkdir repaso_clase_1y2
+   00:54:21  Intro_Informatica  ﮫ 171ms 
+➜ mkdir ./repaso_clase_1y2/historia_de_la_contabilidad ./repaso_clase_1y2/que_haremos_hoy ./repaso_clase_1y2/servidores ./repaso_clase_1y2/interfaces_de_usuario ./repaso_clase_1y2/infraestructura
+   00:57:30  Intro_Informatica  ﮫ 164ms 
+➜ touch ./repaso_clase_1y2/historia_de_la_contabilidad/repaso.pdf ./repaso_clase_1y2/que_haremos_hoy/repaso.xlsx ./repaso_clase_1y2/servidores/repaso.docx ./repaso_clase_1y2/interfaces_de_usuario/repaso.txt ./repaso_clase_1y2/infraestructura/repaso.pdf
+  01:01:00  repaso_clase_1y2  ﮫ 118ms 
+➜ ls -R
+.:
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  servidores/
+
+./historia_de_la_contabilidad:
+repaso.pdf
+
+./infraestructura:
+repaso.pdf
+
+./interfaces_de_usuario:
+repaso.txt
+
+./que_haremos_hoy:
+repaso.xlsx
+
+./servidores:
+repaso.docx
+   01:02:29  repaso_clase_1y2 
+➜ mv historia_de_la_contabilidad historia_de_la_informatica
+   01:03:45  repaso_clase_1y2  ﮫ 825ms 
+➜ mv que_haremos_hoy software_y_hardware
+   01:04:58  repaso_clase_1y2  ﮫ 176ms 
+➜ mv infraestructura git_bash_y_vscode
+   01:05:50  repaso_clase_1y2  ﮫ 173ms 
+➜    01:02:29  repaso_clase_1y2 
+➜ mv historia_de_la_contabilidad historia_de_la_informatica
+   01:03:45  repaso_clase_1y2  ﮫ 825ms 
+➜ mv que_haremos_hoy software_y_hardware
+   01:04:58  repaso_clase_1y2  ﮫ 176ms 
+➜ mv infraestructura git_bash_y_vscode
+   01:05:50  repaso_clase_1y2  ﮫ 173ms 
+➜ nano ./servidores/repaso.docx
+   01:14:25  repaso_clase_1y2  ﮫ 17.444s 
+➜ nano .git_bush_y_vscode/repaso.pdf
+   01:15:55  repaso_clase_1y2  ﮫ 52.865s 
+➜ nano ./interfaces_de_usuario/repaso.txt
+   01:16:48  repaso_clase_1y2  ﮫ 7.464s 
+➜ nano ./software_y_hardware/repaso.xlsx
+   01:17:56  repaso_clase_1y2  ﮫ 5.277s 
+➜ 

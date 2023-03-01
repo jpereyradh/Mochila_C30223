@@ -1,0 +1,110 @@
+   01:28:18  Mochila_C30223  colman_sebastian  ?1 
+➜ ls
+'Primera Entrega'/   referencias.txt
+   01:29:01  Mochila_C30223  colman_sebastian  ?1  ﮫ 199ms 
+➜ ls -R
+.:
+'Primera Entrega'/   referencias.txt
+
+'./Primera Entrega':
+'Clase 1- Presentación'/  'Clase 3- Integradora'/  'Clase 5- github'/   'Clase 7- Estructura'/
+'Clase 2- La Terminal'/   'Clase 4- Git'/          'Clase 6- Mochila'/
+
+'./Primera Entrega/Clase 1- Presentación':
+'Actividad grupal - 1.docx'   Alumnos/   Grupos_Padlet.txt
+
+'./Primera Entrega/Clase 1- Presentación/Alumnos':
+Jorgito/
+
+'./Primera Entrega/Clase 1- Presentación/Alumnos/Jorgito':
+'Nuevo documento de texto.txt'
+
+'./Primera Entrega/Clase 2- La Terminal':
+'Actividad con Terminal.pptx.pdf'   Alumnos/
+
+'./Primera Entrega/Clase 2- La Terminal/Alumnos':
+Jorgito/
+
+'./Primera Entrega/Clase 2- La Terminal/Alumnos/Jorgito':
+'Nuevo documento de texto.txt'
+
+'./Primera Entrega/Clase 3- Integradora':
+'Actividad con Terminal Integradora.pptx.pdf'   Alumnos/
+
+'./Primera Entrega/Clase 3- Integradora/Alumnos':
+Jorgito/
+
+'./Primera Entrega/Clase 3- Integradora/Alumnos/Jorgito':
+'Nuevo documento de texto.txt'
+
+'./Primera Entrega/Clase 4- Git':
+ Alumnos/                                            'Ejercicio para mesas.drawio.svg'
+'Dinámica para completar los ejercicios.drawio.svg'  'Git y Github- Resumen - V2.pdf'
+
+'./Primera Entrega/Clase 4- Git/Alumnos':
+Jorgito/
+
+'./Primera Entrega/Clase 4- Git/Alumnos/Jorgito':
+'Nuevo documento de texto.txt'
+
+'./Primera Entrega/Clase 5- github':
+ Alumnos/  'Ejercitación Integradora GIT + GITHUB.pdf'
+
+'./Primera Entrega/Clase 5- github/Alumnos':
+Jorgito/
+
+'./Primera Entrega/Clase 5- github/Alumnos/Jorgito':
+'Nuevo documento de texto.txt'
+
+'./Primera Entrega/Clase 6- Mochila':
+'~$chila del viajero primer consigna.docx'  'Mochila del viajero primer consigna.docx'
+ Alumnos/                                   'Mochila del viajero segunda consigna.docx'
+
+'./Primera Entrega/Clase 6- Mochila/Alumnos':
+Jorgito/
+
+'./Primera Entrega/Clase 6- Mochila/Alumnos/Jorgito':
+'Nuevo documento de texto.txt'
+
+'./Primera Entrega/Clase 7- Estructura':
+ Alumnos/  'Práctica comparativa.pdf'
+
+'./Primera Entrega/Clase 7- Estructura/Alumnos':
+Jorgito/
+
+'./Primera Entrega/Clase 7- Estructura/Alumnos/Jorgito':
+'Nuevo documento de texto.txt'
+   01:29:23  Mochila_C30223  colman_sebastian  ?1  ﮫ 216ms 
+➜ git log
+commit 41c2bea0ccfd74dcbb86e06a4e139d87b23dea9b (HEAD -> colman_sebastian, origin/main, origin/HEAD, main)
+Author: jpereyradh <jorge.pereyra@digitalhouse.com>
+Date:   Tue Feb 28 21:02:39 2023 -0300
+
+    PrimerCommit+CreacionMochila
+   01:30:30  Mochila_C30223  colman_sebastian  ?1  ﮫ 293ms 
+➜ git status
+On branch colman_sebastian
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Primera Entrega/Clase 6- Mochila/~$chila del viajero primer consigna.docx
+
+nothing added to commit but untracked files present (use "git add" to track)
+   01:31:03  Mochila_C30223  colman_sebastian  ?1  ﮫ 221ms 
+➜ cd "Primera Entrega"
+   01:31:53  Primera Entrega  colman_sebastian  ?1  ﮫ 124ms 
+➜ ls
+'Clase 1- Presentación'/  'Clase 3- Integradora'/  'Clase 5- github'/   'Clase 7- Estructura'/
+'Clase 2- La Terminal'/   'Clase 4- Git'/          'Clase 6- Mochila'/
+   01:31:59  Primera Entrega  colman_sebastian  ?1  ﮫ 197ms 
+➜ mkdir ./"Clase 1- Presentación"/Alumnos/colman_sebastian ./"Clase 2- La Terminal"/Alumnos/colmam_sebastian ./"Clase
+3- Integradora"/Alumnos/colmam_sebastian ./"Clase 4- Git"/Alumnos/colmam_sebastian ./"Clase 5- github"/Alumnos/colmam_
+sebastian ./"Clase 6- Mochila"/Alumnos/colmam_sebastian ./"Clase 7- Estructura"/Alumnos/colmam_sebastian
+   01:42:48  Primera Entrega  colman_sebastian  ?1  ﮫ 202ms 
+➜ touch ./"Clase 6- Mochila"/Alumnos/colmam_sebastian/TpClase6
+   01:45:33  Primera Entrega  colman_sebastian  ?2  ﮫ 180ms 
+➜ mv  ./"Clase 6- Mochila"/Alumnos/colmam_sebastian/TpClase6 ./"Clase 6- Mochila"/Alumnos/colmam_sebastian/TpClase6.tx
+t
+   01:46:19  Primera Entrega  colman_sebastian  ?2  ﮫ 193ms 
+➜ nano ./"Clase 6- Mochila"/Alumnos/colmam_sebastian/TpClase6.txt
+   02:00:30  Primera Entrega  colman_sebastian  ?2  ﮫ 13m 50.545s 
+➜ 
