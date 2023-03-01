@@ -1,0 +1,38 @@
+**Actividad con Terminal**
+
+(base) SamuelPerez@MacBook-Air-de-Samuel Desktop % mkdir DH
+(base) SamuelPerez@MacBook-Air-de-Samuel Desktop % mkdir Repaso_Clase1y2
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % mkdir Repaso_Clase1y2/Historia_de_la_contabilidad Repaso_Clase1y2/que_haremos_hoy Repaso_Clase1y2/Servidores 
+Repaso_Clase1y2/interfaces_de_usuario Repaso_Clase1y2/Infraestructura   
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % touch Repaso_Clase1y2/Historia_de_la_contabilidad/repaso.txt  Repaso_Clase1y2/que_haremos_hoy/repaso.xls 
+Repaso_Clase1y2/Servidores/repaso.pdf Repaso_Clase1y2/interfaces_de_usuario/repaso.png Repaso_Clase1y2/Infraestructura/repaso.jpg
+
+(base) SamuelPerez@MacBook-Air-de-Samuel Repaso_Clase1y2 % ls -R
+Historia_de_la_contabilidad     Servidores                      que_haremos_hoy
+Infraestructura                 interfaces_de_usuario
+
+./Historia_de_la_contabilidad:
+repaso.txt
+
+./Infraestructura:
+repaso.jpg
+
+./Servidores:
+repaso.pdf
+
+./interfaces_de_usuario:
+repaso.png
+
+./que_haremos_hoy:
+repaso.xls
+
+(base) SamuelPerez@MacBook-Air-de-Samuel Repaso_Clase1y2 % mv Historia_de_la_contabilidad Historia_de_la_informatica
+(base) SamuelPerez@MacBook-Air-de-Samuel Repaso_Clase1y2 % mv que_haremos_hoy software_y_hardware
+(base) SamuelPerez@MacBook-Air-de-Samuel Repaso_Clase1y2 % mv Infraestructura git_bash_y_vscode
+
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % nano Repaso_Clase1y2/git_bash_y_vscode/repaso.jpg
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % nano Repaso_Clase1y2/Historia_de_la_informatica/repaso.txt
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % nano Repaso_Clase1y2/interfaces_de_usuario/repaso.png
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % nano Repaso_Clase1y2/Servidores/repaso.pdf
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % nano Repaso_Clase1y2/software_y_hardware/repaso.xls
+

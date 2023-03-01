@@ -1,0 +1,75 @@
+**Actividad con terminal Integradora**
+
+Parte 1
+(base) SamuelPerez@MacBook-Air-de-Samuel Desktop % mkdir DH
+(base) SamuelPerez@MacBook-Air-de-Samuel Desktop % mkdir DH/Peliculas
+(base) SamuelPerez@MacBook-Air-de-Samuel Desktop % mkdir DH/Peliculas/Infantiles DH/Peliculas/Accion DH/Peliculas/Terror DH/Peliculas/Comedia 
+DH/Peliculas/Romanticas  
+(base) SamuelPerez@MacBook-Air-de-Samuel Desktop % cd DH/Peliculas/Infantiles                                                                          
+(base) SamuelPerez@MacBook-Air-de-Samuel Infantiles % touch Intenzamente.txt "El juego del miedo".xls "Rapido y furioso".pdf Titanic.jpg 
+(base) SamuelPerez@MacBook-Air-de-Samuel Infantiles % cd ..
+(base) SamuelPerez@MacBook-Air-de-Samuel Peliculas % cd Accion
+(base) SamuelPerez@MacBook-Air-de-Samuel Accion % touch "Smooth criminal".txt "Diario de una pasion".js "El hexorcista".xls "Cars".jpg
+(base) SamuelPerez@MacBook-Air-de-Samuel Accion % cd ..
+(base) SamuelPerez@MacBook-Air-de-Samuel Peliculas % cd Terror
+(base) SamuelPerez@MacBook-Air-de-Samuel Terror % touch "La dama y el bagavundo".png "Yo antes de ti".xls "Que paso ayer".pdf "We will rock you".js 
+(base) SamuelPerez@MacBook-Air-de-Samuel Comedia % touch "Madagaskar".js "Orgullo y prejuicio".txt "IT".xls "Mision imposible".png
+(base) SamuelPerez@MacBook-Air-de-Samuel Comedia % cd ..
+(base) SamuelPerez@MacBook-Air-de-Samuel Peliculas % cd Romanticas
+(base) SamuelPerez@MacBook-Air-de-Samuel Romanticas % touch Pocahontas.jpg Annbelle.js "Los vengadores".js "La Mascara".js
+(base) SamuelPerez@MacBook-Air-de-Samuel Romanticas % cd ..
+(base) SamuelPerez@MacBook-Air-de-Samuel Peliculas % ls -R
+Accion          Comandos.txt    Comedia         Infantiles      Romanticas      Terror
+
+./Accion:
+Cars.jpg                Diario de una pasion.js El hexorcista.xls       Smooth criminal.txt
+
+./Comedia:
+IT.xls                  Madagaskar.js           Mision imposible.png    Orgullo y prejuicio.txt
+
+./Infantiles:
+El juego del miedo.xls  Intenzamente.txt        Rapido y furioso.pdf    Titanic.jpg
+
+./Romanticas:
+Annbelle.js             La Mascara.js           Los vengadores.js       Pocahontas.jpg
+
+./Terror:
+La dama y el bagavundo.png      Que paso ayer.pdf               We will rock you.js             Yo antes de ti.xls
+
+9.a) Si: (base) SamuelPerez@MacBook-Air-de-Samuel Desktop % mkdir DH/Peliculas/Infantiles DH/Peliculas/Accion DH/Peliculas/Terror DH/Peliculas/Comedia 
+DH/Peliculas/Romanticas
+9.b) Si: (base) SamuelPerez@MacBook-Air-de-Samuel Infantiles % touch Intenzamente.txt "El juego del miedo".xls "Rapido y furioso".pdf Titanic.jpg
+9.c) Si: (base) SamuelPerez@MacBook-Air-de-Samuel DH % mkdir Peliculas/Romanticas/Prueba 
+9.d) Si: (base) SamuelPerez@MacBook-Air-de-Samuel Romanticas % mkdir /Users/SamuelPerez/Desktop/DH/Peliculas/Accion/Prueba2
+         (base) SamuelPerez@MacBook-Air-de-Samuel Romanticas % mkdir ../Accion/"Prueba3"
+
+Parte 2
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % mv Peliculas/Accion/"El hexorcista".xls Peliculas/Terror/"El hexorcista".xls
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % mv Peliculas/Accion/"Smooth criminal".txt Peliculas/Terror/"Smooth criminal".txt
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % mv Peliculas/Accion/"Diario de una pasion".js Peliculas/Romanticas/"Diario de una pasion".js
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % mv Peliculas/Comedia/"IT".xls Peliculas/Accion/"IT".xls
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % mv Peliculas/Comedia/"IT".xls Peliculas/Accion/"IT".xls
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % mv Peliculas/Comedia/"Madagaskar".js Peliculas/Infantiles/"Madagasar".js 
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % mv Peliculas/Comedia/"Orgullo y prejuicio".txt Peliculas/Romanticas/"Orgullo y prejuicio".txt
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % mv Peliculas/Infantiles/"El juego del miedo".xls Peliculas/Terror/"El juego del miedo".xls
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % mv Peliculas/Infantiles/"Rapido y furioso".pdf Peliculas/Accion/"Rapido y furioso".pdf   
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % mv Peliculas/Terror/"Que paso ayer".pdf Peliculas/Comedia/"Que paso ayer".pdf
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % mv Peliculas/Romanticas/"La Mascara".js Peliculas/Comedia/"La Mascara".js
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % mv Peliculas/Romanticas/"Pocahontas".jpg Peliculas/Infantiles/"Pocahontas".jpg
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % mv Peliculas/Romanticas/"Annbelle".js Peliculas/Terror/"Annabelle".js
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % mv Peliculas/Infantiles/"Titanic".jpg Peliculas/Romanticas/"Titanic".jpg 
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % mv Peliculas/Romanticas/"Los vengadores".js Peliculas/Accion/"Los vengadores".js 
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % mv Peliculas/Terror/"La dama y el bagavundo".png Peliculas/Infantiles/"La dama y el vagabundo".png
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % mv Peliculas/Terror/"We will rock you".js Peliculas/Accion/"We will rock you".js
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % mv Peliculas/Terror/"Yo antes de ti".xls Peliculas/Romanticas/"Yo antes de ti".xls
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % mv Peliculas/Infantiles/"Intenzamente".txt Peliculas/Infantiles/"Intensamente".txt
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % mv Peliculas/Accion/"Cars".jpg Peliculas/Infantiles/"Cars".jpg
+
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % rm /Users/SamuelPerez/Desktop/DH/Peliculas/Accion/"We will rock you".js
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % touch Peliculas/Accion/Prueba2/noBorrar.js
+(base) SamuelPerez@MacBook-Air-de-Samuel Peliculas % mv Accion/Prueba2/noBorrar.js Romanticas/Prueba/noBorrar.js
+(base) SamuelPerez@MacBook-Air-de-Samuel DH % touch camadax.txt
+(base) SamuelPerez@MacBook-Air-de-Samuel Peliculas % mv Accion/IT.xls Infantiles/IT.xls
+(base) SamuelPerez@MacBook-Air-de-Samuel Peliculas % rm ../camadax.txt
+(base) SamuelPerez@MacBook-Air-de-Samuel Peliculas % rm -r Romanticas/Prueba
+
