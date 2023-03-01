@@ -1,0 +1,7 @@
+¿Se pueden crear las carpetas del punto 2 en un solo comando? En caso que la respuesta sea positiva escribir el comando
+
+si es posible escribiendo el comando $ mkdir carpeta1 carpeta2 carpeta3 carpeta4
+
+¿Se pueden crear los archivos del punto 3 en un solo comando? En caso que la respuesta sea positiva escribir el comando
+
+Si es posible escribiendo el comando $ touch pelicula.formato "pelicula_con_titulo_largo.formato""pelicula3.formto

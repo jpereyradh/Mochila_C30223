@@ -1,0 +1,20 @@
+Para asignar los procesadores a cada persona, es necesario comparar las características de los procesadores con las necesidades específicas de cada uno. Tenemos tres 
+opciones: AMD Ryzen 5 3600, AMD A8 9600 e Intel i3 3230.
+
+El procesador AMD Ryzen 5 3600 tiene seis núcleos y doce hilos, con una velocidad base de 3.6 GHz y una velocidad de turbo de 4.2 GHz. Es un procesador de gama 
+media-alta, adecuado para aplicaciones y juegos que requieren un alto rendimiento.
+
+Por otro lado, el procesador AMD A8 9600 tiene cuatro núcleos y cuatro hilos, con una velocidad base de 3.1 GHz y una velocidad de turbo de 3.4 GHz. Es un procesador 
+de gama media-baja, adecuado para tareas básicas como navegar por internet y realizar trabajos de ofimática.
+
+Finalmente, el procesador Intel i3 3230 tiene dos núcleos y cuatro hilos, con una velocidad base de 3.2 GHz. Es un procesador de gama media-baja, también adecuado 
+para tareas básicas como navegar por internet y realizar trabajos de ofimática.
+
+Teniendo en cuenta las necesidades específicas de cada persona, podemos asignar los procesadores de la siguiente manera:
+
+Para Matilda, el procesador AMD Ryzen 5 3600 es la opción más adecuada, ya que es capaz de manejar los requisitos del juego Cyberpunk 2077.
+
+Para Marcelo, el procesador AMD A8 9600 es adecuado, ya que puede ejecutar sin problemas la suite de Office 2019.
+
+Finalmente, el hermano mayor de Matilda podría utilizar el procesador Intel i3 3230, que aunque es de gama media-baja, es capaz de manejar tareas de edición de video 
+en Wondershare Filmora X sin problemas.
