@@ -1,0 +1,10 @@
+Practica comparativa:
+
+AMD Ryzen 5 3600: Matilda. Al ser el procesador mas potente de todos, sera capaz de ejecutar correctamente
+los juegos de ultima generacion para los cuales sera utilizado.
+
+AMD A8 9600: Hermano mayor. Este procesador tiene una potencia razonable e incluye aceleradora de video
+integrada, lo que sera el mas conveniente a la hora de editar videos tal como se pretende.
+
+Intel i3 3220: Marcelo. Las tareas de office para los cuales se va a utilizar la computadora podran
+ser ejecutadas correctamente con este procesar por mas que sea el menos potente de los tres.
