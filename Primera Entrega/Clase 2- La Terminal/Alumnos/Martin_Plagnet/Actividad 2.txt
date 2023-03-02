@@ -1,0 +1,47 @@
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo (main)
+$ mkdir DH
+
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo (main)
+$ ls
+DH/
+
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo (main)
+$ cd DH
+
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo/DH (main)
+$ mkdir repaso_clase1y2
+
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo/DH (main)
+$ cd repaso_clase1y2
+
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo/DH/repaso_clase1y2 (main)
+$ mkdir historia_de_la_contabilidad que_haremos_hoy servidores interfaces_de_usuario infrastructura
+
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo/DH/repaso_clase1y2 (main)
+$ ls
+historia_de_la_contabilidad/  interfaces_de_usuario/  servidores/
+infrastructura/               que_haremos_hoy/
+
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo/DH/repaso_clase1y2 (main)
+$ touch que_haremos_hoy/repaso.txt servidores/repaso.doc interfaces_de_usuario/repaso.pdf infrastructura/repaso.ppt historia_de_la_contabilidad/repaso.zip
+
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo/DH/repaso_clase1y2 (main)
+$ ls -R
+.:
+historia_de_la_contabilidad/  interfaces_de_usuario/  servidores/
+infrastructura/               que_haremos_hoy/
+
+./historia_de_la_contabilidad:
+repaso.zip
+
+./infrastructura:
+repaso.ppt
+
+./interfaces_de_usuario:
+repaso.pdf
+
+./que_haremos_hoy:
+repaso.txt
+
+./servidores:
+repaso.doc

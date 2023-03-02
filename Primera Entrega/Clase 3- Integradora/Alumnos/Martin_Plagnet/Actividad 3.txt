@@ -1,0 +1,81 @@
+
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo/DH (main)
+$ mkdir Peliculas
+
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo/DH (main)
+$ ls
+Peliculas/  repaso_clase1y2/
+
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo/DH (main)
+$ cd peliculas
+
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo/DH/peliculas (main)
+$ mkdir Infantiles Acción Terror Comedia Romanticas
+
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo/DH/peliculas (main)
+$ ls
+Acción/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo/DH/peliculas (main)
+$ touch Infantiles/Intenzamente.txt Infantiles/"El juego del miedo.xls" Infantiles/"Rapido y furioso.pdf" Infantiles/Titanic.jpg
+
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo/DH/peliculas (main)
+$ touch Acción/"Smooth criminal.txt" Acción/"Diario de una pasion.js" Acción/"El hexorcista.xls" Acción/Cars.jpg
+
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo/DH/Peliculas (main)
+$ touch Terror/"La dama y el bagavundo.png" Terror/"Yo antes de ti.xls" Terror/"Que paso ayer.pdf" Terror/"We will rock you.js"
+
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo/DH/Peliculas (main)
+$ touch Comedia/Madagaskar.js Comedia/"Orgullo y prejuicio.txt" Comedia/IT.xls Comedia/"Mision imposible.png"
+
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo/DH/Peliculas (main)
+$ touch Romanticas/Pocahontas.jpg Romanticas/Annabelle.js Romanticas/"Los vengadores.js" Romanticas/"La mascara.js"
+
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo/DH/Peliculas (main)
+$
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo/DH/Peliculas (main)
+$ ls -R
+.:
+Acción/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+./Acción:
+ Cars.jpg                  'El hexorcista.xls'
+'Diario de una pasion.js'  'Smooth criminal.txt'
+
+./Comedia:
+ IT.xls   Madagaskar.js  'Mision imposible.png'  'Orgullo y prejuicio.txt'
+
+./Infantiles:
+'El juego del miedo.xls'  'Rapido y furioso.pdf'
+ Intenzamente.txt          Titanic.jpg
+
+./Romanticas:
+ Annabelle.js  'La mascara.js'  'Los vengadores.js'   Pocahontas.jpg
+
+./Terror:
+'La dama y el bagavundo.png'  'We will rock you.js'
+'Que paso ayer.pdf'           'Yo antes de ti.xls'
+
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo/DH/Peliculas (main)
+$ cd ../
+
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo/DH (main)
+$ mkdir Peliculas/Romanticas/Prueba
+
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo/DH (main)
+$ cd Peliculas/Romanticas
+
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo/DH/Peliculas/Romanticas (main)
+$ mkdir ../Acción/Prueba2
+
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo/DH (main)
+$ mv peliculas/acción/cars.jpg Peliculas/Infantiles
+
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo/DH (main)
+$ mv peliculas/acción/cars.jpg Peliculas/Infantiles
+
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo/DH (main)
+$ mv peliculas/acción/cars.jpg Peliculas/Infantiles
+
+marti@tincho MINGW64 ~/OneDrive/Documentos/dh introo/DH (main)
+$ mv peliculas/acción/cars.jpg Peliculas/Infantiles

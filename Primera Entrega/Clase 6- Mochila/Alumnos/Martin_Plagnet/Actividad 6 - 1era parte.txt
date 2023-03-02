@@ -1,0 +1,6 @@
+a- Git lo desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005. 
+Git se ha ideado para posibilitar la ramificación y el etiquetado como procesos de primera importancia (a diferencia de SVN) y las operaciones que afectan a las ramas y las etiquetas (como la fusión o la reversión) también se almacenan en el historial de cambios.
+
+b- GitHub le pertenece a Microsoft,  mantenido por The Linux Foundation
+
+c- Si quieres trabajar con Git de forma local, pero no quieres utilizar la línea de comandos, puedes descargar e instalar en su lugar el cliente GitHub Desktop. Para obtener más información, vea "Instalar y configurar GitHub Desktop".
