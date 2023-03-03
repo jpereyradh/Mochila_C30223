@@ -1,0 +1,14 @@
+Clonar un repositorio existente
+git clone ssh://usuario@domain.com/repo.git
+
+Crear un nuevo repositorio local
+git init
+
+Hacer un pull
+git pull origin "mi rama"
+
+Crear rama 
+git checkout "mi rama"
+
+Cambiar de rama
+git branch "mi rama"
