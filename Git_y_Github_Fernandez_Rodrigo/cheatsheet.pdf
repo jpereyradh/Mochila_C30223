@@ -1,0 +1,14 @@
+RECORDATORIO:
+
+PARA SINCRONIZAR CON EL REPOSITORIO: git remote add origin
+PARA CREAR UN NUEVO REPOSITORIO: git init
+CLONAR UN REPOSITORIO EXISTENTE: git clone
+PARA VERIFICAR QUE NUESTRA CARPETA ESTA SINCRONIZADA CON EL REPOSITORIO: git remote -V
+PARA ACTUALIZAR MODIFICACIONES: git pull origin main; en branch: git pull origin 'nombre de la rama'
+PARA SUBIR ARCHIVOS AL REPOSITORIO: git push origin main; en branch: git push origin 'nombre de la rama'
+PARA ORGANIZAR LOS ARCHIVOS DENTRO DEL REPOSITORIO: git add
+PARA REALIZAR UN COMMIT: git commit -m 'nombre de archivo'
+PARA CREAR UNA NUEVA RAMA: git branch 'nombre de la rama'
+PARA POSICIONARSE EN LA NUEVA RAMA: git checkout 'nombre de la rama'
+PARA HACER LA UNIÓN DE DOS ARCHIVOS MODIFICADOS Y SUBIDOS: git merge
+PARA CREAR UNA RAMA Y POSICIONARCE EN ELLA: git checkout -b 'nombre de la rama'
