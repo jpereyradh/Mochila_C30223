@@ -1,0 +1,1 @@
+la interfaz del usuario es el medio que usa el usuario para comunicarse con la computadora.
