@@ -1,0 +1,1 @@
+Git Bash es una terminal que nos facilita la creación y modificación de archivos y el movimiento entre repositorios sin tener que hacer uso de la interfaz gráfica. VScode es un editor de texto que cuenta con varias herramientas que nos sirven a la hora de escribir código.

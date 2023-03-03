@@ -1,0 +1,31 @@
+a.Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la
+confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran
+número de archivos de código fuente. Su propósito es llevar registro de los cambios en archivos de computadora
+incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio 
+de código.
+
+b.El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones de dólares. GitHub continúa
+siendo la plataforma más importante de colaboración para proyectos de código abierto.
+
+c.Aunque existen otras plataformas para donde mantener tus repositorios de código, es indudable, que en el
+momento de escribir este artículo, la plataforma por excelencia es GitHub. Por esta razón, cualquier aplicación
+que nos facilite la vida a la hora de trabajar con la misma, es sin lugar a dudas, una ventaja desde el punto de
+vista de la productividad.
+
+GitHub Desktop: es una aplicación de escritorio que proporciona una interfaz gráfica de usuario (GUI) para trabajar
+con repositorios de GitHub. Permite realizar muchas de las operaciones básicas de Git, como clonar repositorios,
+crear ramas, hacer commits y realizar merge requests, todo a través de una interfaz visual.
+
+Interfaz web de GitHub: la plataforma GitHub ofrece una interfaz web que permite realizar muchas operaciones,
+como la creación y edición de repositorios, la revisión de cambios y la colaboración con otros desarrolladores.
+También es posible realizar ciertas operaciones avanzadas, como la gestión de conflictos de merge, directamente
+desde la interfaz web.
+
+Extensiones y plugins: hay varias extensiones y plugins disponibles para editores de código populares como Visual
+Studio Code, Atom y Sublime Text que permiten integrar Git y GitHub en el flujo de trabajo de desarrollo. Estas
+herramientas ofrecen características como la gestión de ramas y commits, la revisión de cambios y la integración
+con GitHub Issues y Pull Requests, todo sin tener que abandonar el editor de código.
+
+En resumen, hay varias formas de trabajar con GitHub que no implican el uso de la línea de comandos o la terminal,
+lo que hace que sea más accesible para aquellos que prefieren una interfaz gráfica de usuario o que no tienen
+experiencia con la línea de comandos.
