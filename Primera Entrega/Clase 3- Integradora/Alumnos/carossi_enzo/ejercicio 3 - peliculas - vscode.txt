@@ -1,0 +1,124 @@
+2.
+enzo_@Enzo MINGW64 ~/Desktop/DH/peliculas
+$ mv accion/cars.jpg infantiles/cars.jpg
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/peliculas
+$ mv accion/"diario de una pasion.js" romanticas/"diario de una pasion.js"
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/peliculas
+$ mv accion/"el exorcista.xls" terror/"el exorcista.xls"
+mv: cannot stat 'accion/el exorcista.xls': No such file or directory
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/peliculas
+$ mv accion/"el hexorcista.xls" terror/"el hexorcista.xls"
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/peliculas
+$ mv comedia/it.xls terror/it.xls
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/peliculas
+$ mv comedia/madagaskar.js infantiles/madagaskar.js
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/peliculas
+$ mv comedia/"mision imposible.png" accion/"mision imposible.png"
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/peliculas
+$ mv comedia/"orgullo y prejuicio.txt" romanticas/"orgullo y prejuicio.txt"
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/peliculas
+$ mv infantiles/"el juego del miedo.xls" terror/"el juego del miedo.xls"
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/peliculas
+$ mv infantiles/"rapido y furioso.pdf" accion/"rapido y furioso.pdf"
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/peliculas
+$ mv infantiles/titanic.jpg romanticas/titanic.jpg
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/peliculas
+$ mv romanticas/annaballe.js terror/annabelle.js
+mv: cannot stat 'romanticas/annaballe.js': No such file or directory
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/peliculas
+$ mv romanticas/annabelle.js terror/annabelle.js
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/peliculas
+$ mv romanticas/"la mascara.js" comedia/"la mascara.js"
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/peliculas
+$ mv romanticas/"los vengadores.js" accion/"los vengadores.js"
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/peliculas
+$ mv romanticas/pocahontas.jpg infantiles/pocahontas.jpg
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/peliculas
+$ mv terror/"la dama y el bagavundo.png" infantiles/"la dama y el bagavundo.png"
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/peliculas
+$ mv terror/"que paso ayer.pdf" comedia/"que paso ayer.pdf"
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/peliculas
+$ mv terror/"yo antes de ti.xls" romanticas/"yo antes de ti.xls"
+
+
+3.
+enzo_@Enzo MINGW64 ~/Desktop/DH
+$ mv ./peliculas/infantiles/intenzamente.txt ./peliculas/infantiles/intensamente.txt
+
+enzo_@Enzo MINGW64 ~/Desktop/DH
+$ mv ./peliculas/infantiles/"la dama y el bagavundo.png" ./peliculas/infantiles/"la dama y el vagabundo.png"
+
+enzo_@Enzo MINGW64 ~/Desktop/DH
+$ mv ./peliculas/infantiles/madagaskar.js ./peliculas/infantiles/madagascar.js
+
+enzo_@Enzo MINGW64 ~/Desktop/DH
+$ mv ./peliculas/terror/"el hexorcista.xls" ./peliculas/terror/"el exorcista.xls"
+
+enzo_@Enzo MINGW64 ~/Desktop/DH
+$
+
+
+4.
+enzo_@Enzo MINGW64 ~/Desktop/DH
+$ rm ./peliculas/accion/"smooth criminal.txt"
+
+enzo_@Enzo MINGW64 ~/Desktop/DH
+$ rm ./peliculas/terror/"we will rock you.js"
+
+enzo_@Enzo MINGW64 ~/Desktop/DH
+$
+
+
+5.
+enzo_@Enzo MINGW64 ~/Desktop/DH
+$ touch ./peliculas/accion/prueba2/noBorrar.js
+
+
+6.
+enzo_@Enzo MINGW64 ~/Desktop/DH
+$ cd peliculas
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/peliculas
+$ mv ./accion/prueba2/noBorrar.js ./romanticas/prueba/noBorrar.js
+
+
+7.
+enzo_@Enzo MINGW64 ~/Desktop/DH
+$ touch camadax.txt
+
+
+8.
+enzo_@Enzo MINGW64 ~/Desktop/DH
+$ cd peliculas
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/peliculas
+$ mv ./terror/it.xls ./infantiles/it.xls
+
+
+9.
+enzo_@Enzo MINGW64 ~/Desktop/DH/peliculas
+$ rm ../camadax.txt
+
+
+10.
+enzo_@Enzo MINGW64 ~/Desktop/DH/peliculas
+$ rm -r ./romanticas/prueba
+

@@ -1,0 +1,111 @@
+enzo_@Enzo MINGW64 ~
+$ pwd
+/c/Users/enzo_
+
+enzo_@Enzo MINGW64 ~
+$ ls
+ AppData/
+'Configuración local'@
+ Contacts/
+ Cookies@
+'Datos de programa'@
+ Desktop/
+ Documents/
+ Downloads/
+'Entorno de red'@
+ Favorites/
+ Impresoras@
+ Links/
+'Menú Inicio'@
+'Mis documentos'@
+ Music/
+ NTUSER.DAT
+ NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf
+ NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms
+ OneDrive/
+ Pictures/
+ Plantillas@
+ Reciente@
+'Saved Games'/
+ Searches/
+ SendTo@
+ Videos/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+
+enzo_@Enzo MINGW64 ~
+$ cd desktop
+
+enzo_@Enzo MINGW64 ~/desktop
+$ ls
+ DH/                               'Shutdown (Secs).lnk'*
+'Digital House'/                   'Shutdown Cancel.lnk'*
+'Driver Booster for Steam.url'     'Visual Studio Code.lnk'*
+'Ejercicio para mesas.drawio.svg'   desktop.ini
+'Git Bash.lnk'*                     juegos/
+'GitHub Desktop.lnk'*              'links zoom.txt'
+'Go to UEFI.lnk'*                   mochila/
+'MSI Afterburner.lnk'*             'programas setup'/
+'Nuevo Documento de texto.txt'     'terminal codigos ejercicios.txt'
+ RtkNGUI64.exe*
+
+enzo_@Enzo MINGW64 ~/desktop
+$ cd DH
+
+enzo_@Enzo MINGW64 ~/desktop/DH
+$ ls
+repaso_clase_1y2/
+
+enzo_@Enzo MINGW64 ~/desktop/DH
+$ cd repaso_clase_1y2
+
+enzo_@Enzo MINGW64 ~/desktop/DH/repaso_clase_1y2
+$ ls
+historia_de_la_contabilidad/  interfaces_de_usuario/  servidores/
+infraestructura/              que_haremos_hoy/
+
+enzo_@Enzo MINGW64 ~/desktop/DH/repaso_clase_1y2
+$ touch ./historia_de_la_contabilidad/repaso.js ./infraestructura/repaso.txt ./interfaces_de_usuario/repaso.html ./que_haremos_hoy/repaso.img ./servidores/repaso.css
+
+enzo_@Enzo MINGW64 ~/desktop/DH/repaso_clase_1y2
+$ cd ../
+
+enzo_@Enzo MINGW64 ~/desktop/DH
+$ ls -R
+.:
+repaso_clase_1y2/
+
+./repaso_clase_1y2:
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  servidores/
+
+./repaso_clase_1y2/historia_de_la_contabilidad:
+repaso.js
+
+./repaso_clase_1y2/infraestructura:
+repaso.txt
+
+./repaso_clase_1y2/interfaces_de_usuario:
+repaso.html
+
+./repaso_clase_1y2/que_haremos_hoy:
+repaso.img
+
+./repaso_clase_1y2/servidores:
+repaso.css
+
+enzo_@Enzo MINGW64 ~/desktop/DH
+$
+
+enzo_@Enzo MINGW64 ~/Desktop/DH
+$ cd repaso_clase_1y2
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/repaso_clase_1y2
+$ cd software_y_hardware
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/repaso_clase_1y2/software_y_hardware
+$ nano repaso.img
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/repaso_clase_1y2/software_y_hardware
+$
