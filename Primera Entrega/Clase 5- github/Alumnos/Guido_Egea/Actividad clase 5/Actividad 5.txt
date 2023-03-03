@@ -1,0 +1,167 @@
+Guido@DESKTOP-MRH2OC4 MINGW64 ~
+$ git clone https://github.com/Brulo7/ACT-AYB.git
+Cloning into 'ACT-AYB'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+
+Guido@DESKTOP-MRH2OC4 MINGW64 ~
+$ cd ACT-AYB
+
+Guido@DESKTOP-MRH2OC4 MINGW64 ~/ACT-AYB (main)
+$ git config user.name "guido-egea"
+
+Guido@DESKTOP-MRH2OC4 MINGW64 ~/ACT-AYB (main)
+$ git config user.email "guidoegea@yahoo.com.ar"
+
+Guido@DESKTOP-MRH2OC4 MINGW64 ~/ACT-AYB (main)
+$ touch goku.txt
+
+Guido@DESKTOP-MRH2OC4 MINGW64 ~/ACT-AYB (main)
+$ touch gohan.txt
+
+Guido@DESKTOP-MRH2OC4 MINGW64 ~/ACT-AYB (main)
+$ touch vegeta.txt
+
+Guido@DESKTOP-MRH2OC4 MINGW64 ~/ACT-AYB (main)
+$ nano goku.txt
+
+Guido@DESKTOP-MRH2OC4 MINGW64 ~/ACT-AYB (main)
+$ nano gohan.txt
+
+Guido@DESKTOP-MRH2OC4 MINGW64 ~/ACT-AYB (main)
+$ nano vegeta.txt
+
+Guido@DESKTOP-MRH2OC4 MINGW64 ~/ACT-AYB (main)
+$ git init
+Reinitialized existing Git repository in C:/Users/Guido/ACT-AYB/.git/
+
+Guido@DESKTOP-MRH2OC4 MINGW64 ~/ACT-AYB (main)
+$ git add .
+warning: in the working copy of 'gohan.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'goku.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'vegeta.txt', LF will be replaced by CRLF the next time Git touches it
+
+Guido@DESKTOP-MRH2OC4 MINGW64 ~/ACT-AYB (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   gohan.txt
+        new file:   goku.txt
+        new file:   vegeta.txt
+
+
+Guido@DESKTOP-MRH2OC4 MINGW64 ~/ACT-AYB (main)
+$ git commit -m "Parte de Guido"
+[main 34c159b] Parte de Guido
+ 3 files changed, 3 insertions(+)
+ create mode 100644 gohan.txt
+ create mode 100644 goku.txt
+ create mode 100644 vegeta.txt
+
+Guido@DESKTOP-MRH2OC4 MINGW64 ~/ACT-AYB (main)
+$ git push main
+fatal: 'main' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Guido@DESKTOP-MRH2OC4 MINGW64 ~/ACT-AYB (main)
+$ git push origin main
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (5/5), 400 bytes | 400.00 KiB/s, done.
+Total 5 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/Brulo7/ACT-AYB.git
+   76c20af..34c159b  main -> main
+
+Guido@DESKTOP-MRH2OC4 MINGW64 ~/ACT-AYB (main)
+$ git pull origin main
+From https://github.com/Brulo7/ACT-AYB
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+
+Guido@DESKTOP-MRH2OC4 MINGW64 ~/ACT-AYB (main)
+$ git pull origin main
+remote: Enumerating objects: 11, done.
+remote: Counting objects: 100% (11/11), done.
+remote: Compressing objects: 100% (5/5), done.
+remote: Total 10 (delta 1), reused 10 (delta 1), pack-reused 0
+Unpacking objects: 100% (10/10), 1.06 KiB | 24.00 KiB/s, done.
+From https://github.com/Brulo7/ACT-AYB
+ * branch            main       -> FETCH_HEAD
+   34c159b..214346c  main       -> origin/main
+Updating 34c159b..214346c
+Fast-forward
+ cars.txt       | 0
+ madagascar.txt | 0
+ megamente.txt  | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 cars.txt
+ create mode 100644 madagascar.txt
+ create mode 100644 megamente.txt
+
+Guido@DESKTOP-MRH2OC4 MINGW64 ~/ACT-AYB (main)
+$ nano goku.txt
+
+Guido@DESKTOP-MRH2OC4 MINGW64 ~/ACT-AYB (main)
+$ git.status
+bash: git.status: command not found
+
+Guido@DESKTOP-MRH2OC4 MINGW64 ~/ACT-AYB (main)
+$ cat goku.txt
+Hola soy Goku
+
+Modificacion de Guido
+
+Guido@DESKTOP-MRH2OC4 MINGW64 ~/ACT-AYB (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   goku.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Guido@DESKTOP-MRH2OC4 MINGW64 ~/ACT-AYB (main)
+$ git add goku.txt
+warning: in the working copy of 'goku.txt', LF will be replaced by CRLF the next time Git touches it
+
+Guido@DESKTOP-MRH2OC4 MINGW64 ~/ACT-AYB (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   goku.txt
+
+
+Guido@DESKTOP-MRH2OC4 MINGW64 ~/ACT-AYB (main)
+$ git commit -m "Modificacion Guido a goku.txt"
+[main a85b1a2] Modificacion Guido a goku.txt
+ 1 file changed, 2 insertions(+)
+
+Guido@DESKTOP-MRH2OC4 MINGW64 ~/ACT-AYB (main)
+$ git push origin main
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 308 bytes | 308.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/Brulo7/ACT-AYB.git
+   214346c..a85b1a2  main -> main
+
+Guido@DESKTOP-MRH2OC4 MINGW64 ~/ACT-AYB (main)

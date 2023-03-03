@@ -1,0 +1,8 @@
+Pregunta n°1: Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.Una de las más grandes ventajas de Git o razones para usar git es su capacidad de ramificación, ya que son fáciles y económicas de fusionar, lo que facilita el flujo de trabajo entre muchos usuarios de Git. Las ramas brindan un entorno aislado para cada cambio en su código base.
+
+
+Pregunta n°2: El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones de dólares. ​​GitHub es un servicio basado en la nube que aloja un sistema de control de versiones (VCS) llamado Git. Éste permite a los desarrolladores colaborar y realizar cambios en proyectos compartidos, a la vez que mantienen un seguimiento detallado de su progreso
+
+
+Pregunta n°3: No seria lo ideal ya que no se tiene un sistema de versionado pero si es posible subir los archivos a github sin necesidad de utilizar la terminal
+ 
