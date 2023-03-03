@@ -1,0 +1,9 @@
+La interfaz de usuario es todo aquello que nos permite interactuar con el hardware y el software. 
+
+
+Podremos encontrar los sigientes tipos de interfaz de usuario:
+
+1. Interfaz grafica: Es el tipo de interfaz más utilizada, la cual presenta un entorno de navegacion por medio imagenes y elementos graficos.
+
+
+2. Interfaz de linea de comandos: Este tipo de interfaz se presenta por medio de la utilizacion de comandos que permiten "dialogar" con la computadora, haciendo posible ejecutar y gestionar programas o archivos de una forma agil. Un ejemplo de este tipo de interfaz el Git-Bash
