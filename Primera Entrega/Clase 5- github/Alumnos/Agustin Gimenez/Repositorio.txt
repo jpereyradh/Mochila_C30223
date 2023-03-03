@@ -1,0 +1,2 @@
+Jorge, yo hice este trabajo en duo con Elton Armelini. No copiamos los comandos utilizados pero te dejo el link al repositorio donde estan los commits y nuestro historial:
+https://github.com/EltonArmelini/EJ_Integrador_Equipo11

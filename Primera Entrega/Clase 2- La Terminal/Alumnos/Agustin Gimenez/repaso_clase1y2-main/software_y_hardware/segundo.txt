@@ -1,0 +1,1 @@
+El hardware hace referencia a todos los componentes materiales y físicos de un dispositivo, es decir, aquellos que se pueden ver y tocar. El software es la parte digital del ordenador, es decir, el conjunto de instrucciones, programas y reglas informáticas que el equipo requiere para funcionar.

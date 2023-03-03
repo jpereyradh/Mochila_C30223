@@ -1,0 +1,408 @@
+
+aguse@AgustinGimenez MINGW64 ~
+$ cd Desktop
+bash: cd: Desktop: No such file or directory
+
+/c/Users/aguse
+
+aguse@AgustinGimenez MINGW64 ~
+$ cd Desktop
+bash: cd: Desktop: No such file or directory
+
+aguse@AgustinGimenez MINGW64 ~
+$ cd C:/Desktop
+bash: cd: C:/Desktop: No such file or directory
+
+aguse@AgustinGimenez MINGW64 ~
+$ cd C:\Users\aguse\OneDrive\Documentos\CTD
+bash: cd: C:UsersaguseOneDriveDocumentosCTD: No such file or directory
+
+aguse@AgustinGimenez MINGW64 ~
+$ cd C:/Users/aguse/OneDrive/Documentos/CTD
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD
+$ ls
+Peliculas/  repaso_clase1y2/
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD
+$ cd Peliculas
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ ls -R
+.:
+
+./Accion:
+ Cars.jpg  'Diario de una pasion.js'  'El hexorcista.xls'   Prueba2/  'Smooth criminal.txt'
+
+./Accion/Prueba2:
+
+./Comedia:
+ IT.xls   Madagaskar.js  'Mision imposible.png'  'Orgullo y prejuicio.txt'
+
+./Infantiles:
+'El juego del miedo.xls'   Intenzamente.txt  'Rapido y furioso.pdf'   Titanic.jpg
+
+./Romanticas:
+ Annabelle.js  'La mascara.js'  'Los vengadores.js'   Pocahontas.jpg   Prueba/
+
+./Romanticas/Prueba:
+
+./Terror:
+'La dama y el bagavundo.png'  'Que paso ayer.pdf'  'We will rock you.js'  'Yo antes de ti.xls'
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ mv ./Terror/"We will rock you.js" ./Accion
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ cd Terror
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas/Terror
+$ ls
+'La dama y el bagavundo.png'  'Que paso ayer.pdf'  'Yo antes de ti.xls'
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas/Terror
+$ cd ../
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ cd Accion
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas/Accion
+$ ls
+ Cars.jpg  'Diario de una pasion.js'  'El hexorcista.xls'   Prueba2/  'Smooth criminal.txt'  'We will rock you.js'
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas/Accion
+$ cd ../
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ mv ./Romanticas/"Los vengadores.js" ./Accion ./Infantiles/"Rapido y furioso.pdf" ./Accion ./Comedia/"Mision imposible.png" ./Accion
+mv: cannot move './Accion' to a subdirectory of itself, './Accion/Accion'
+mv: warning: source directory './Accion' specified more than once
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ mv ./Romanticas/"Los vengadores.js" ./Accion
+mv: cannot stat './Romanticas/Los vengadores.js': No such file or directory
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ ls -R
+.:
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+./Accion:
+ Cars.jpg                  'El hexorcista.xls'  'Mision imposible.png'  'Rapido y furioso.pdf'  'We will rock you.js'
+'Diario de una pasion.js'  'Los vengadores.js'   Prueba2/               'Smooth criminal.txt'
+
+./Accion/Prueba2:
+
+./Comedia:
+ IT.xls   Madagaskar.js  'Orgullo y prejuicio.txt'
+
+./Infantiles:
+'El juego del miedo.xls'   Intenzamente.txt   Titanic.jpg
+
+./Romanticas:
+ Annabelle.js  'La mascara.js'   Pocahontas.jpg   Prueba/
+
+./Romanticas/Prueba:
+
+./Terror:
+'La dama y el bagavundo.png'  'Que paso ayer.pdf'  'Yo antes de ti.xls'
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ mv ./Terror/"Que paso ayer.pdf"/Accion
+mv: missing destination file operand after './Terror/Que paso ayer.pdf/Accion'
+Try 'mv --help' for more information.
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ mv ./Teror/"Que paso ayer.pdf" Accion
+mv: cannot stat './Teror/Que paso ayer.pdf': No such file or directory
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ mv ./Terror/"Que paso ayer.pdf" Accion
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ mv ./Romanticas/"La mascara.js" Comedia ./Accion/"Que paso ayer.pdf" Comedia
+mv: cannot move 'Comedia' to a subdirectory of itself, 'Comedia/Comedia'
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ mv ./Romanticas/"La mascara.js" ./Accion/"Que paso ayer.pdf" Comedia/
+mv: cannot stat './Romanticas/La mascara.js': No such file or directory
+mv: cannot stat './Accion/Que paso ayer.pdf': No such file or directory
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ mv ./Romanticas/"La mascara.js" ./Accion/"Que paso ayer.pdf" Comedia
+mv: cannot stat './Romanticas/La mascara.js': No such file or directory
+mv: cannot stat './Accion/Que paso ayer.pdf': No such file or directory
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ mv Romanticas/"La mascara.js" Accion/"Que paso ayer.pdf" Comedia
+mv: cannot stat 'Romanticas/La mascara.js': No such file or directory
+mv: cannot stat 'Accion/Que paso ayer.pdf': No such file or directory
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ ls -R
+.:
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+./Accion:
+ Cars.jpg                  'El hexorcista.xls'  'Mision imposible.png'  'Rapido y furioso.pdf'  'We will rock you.js'
+'Diario de una pasion.js'  'Los vengadores.js'   Prueba2/               'Smooth criminal.txt'
+
+./Accion/Prueba2:
+
+./Comedia:
+ IT.xls  'La mascara.js'   Madagaskar.js  'Orgullo y prejuicio.txt'  'Que paso ayer.pdf'
+
+./Infantiles:
+'El juego del miedo.xls'   Intenzamente.txt   Titanic.jpg
+
+./Romanticas:
+Annabelle.js  Pocahontas.jpg  Prueba/
+
+./Romanticas/Prueba:
+
+./Terror:
+'La dama y el bagavundo.png'  'Yo antes de ti.xls'
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ mv ./Terror/"La dama y el bagavundo.png" Infantiles
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ ls -R
+.:
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+./Accion:
+ Cars.jpg                  'El hexorcista.xls'  'Mision imposible.png'  'Rapido y furioso.pdf'  'We will rock you.js'
+'Diario de una pasion.js'  'Los vengadores.js'   Prueba2/               'Smooth criminal.txt'
+
+./Accion/Prueba2:
+
+./Comedia:
+ IT.xls  'La mascara.js'   Madagaskar.js  'Orgullo y prejuicio.txt'  'Que paso ayer.pdf'
+
+./Infantiles:
+'El juego del miedo.xls'   Intenzamente.txt  'La dama y el bagavundo.png'   Titanic.jpg
+
+./Romanticas:
+Annabelle.js  Pocahontas.jpg  Prueba/
+
+./Romanticas/Prueba:
+
+./Terror:
+'Yo antes de ti.xls'
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ mv ./Terror/"Yo antes de ti.xls" Romanticas
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ mv ./Romanticas/Annabelle.js Terror
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ mv ./Romanticas/Pocahontas.jpg Infantiles
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ mv ./Infantiles/"El juego del miedo.xls" Terror
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ mv ./Comedia/"Orgullo y prejuicio.txt" Romanticas
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ mv ./Comedia/Madagaskar.js Infantiles
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ mv ./Infantiles/Titanic.jpg Romanticas
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ ls -R
+.:
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+./Accion:
+ Cars.jpg                  'El hexorcista.xls'  'Mision imposible.png'  'Rapido y furioso.pdf'  'We will rock you.js'
+'Diario de una pasion.js'  'Los vengadores.js'   Prueba2/               'Smooth criminal.txt'
+
+./Accion/Prueba2:
+
+./Comedia:
+ IT.xls  'La mascara.js'  'Que paso ayer.pdf'
+
+./Infantiles:
+ Intenzamente.txt  'La dama y el bagavundo.png'   Madagaskar.js   Pocahontas.jpg
+
+./Romanticas:
+'Orgullo y prejuicio.txt'   Prueba/   Titanic.jpg  'Yo antes de ti.xls'
+
+./Romanticas/Prueba:
+
+./Terror:
+ Annabelle.js  'El juego del miedo.xls'
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ mv ./Comedia/IT.xls Terror
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ mv ./Accion/"El hexorcista.xls" Terror
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ mv ./Accion/"Diario de una pasion.js" Romanticas
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ ls -R
+.:
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+./Accion:
+ Cars.jpg  'Los vengadores.js'  'Mision imposible.png'   Prueba2/  'Rapido y furioso.pdf'  'Smooth criminal.txt'  'We will rock you.js'
+
+./Accion/Prueba2:
+
+./Comedia:
+'La mascara.js'  'Que paso ayer.pdf'
+
+./Infantiles:
+ Intenzamente.txt  'La dama y el bagavundo.png'   Madagaskar.js   Pocahontas.jpg
+
+./Romanticas:
+'Diario de una pasion.js'  'Orgullo y prejuicio.txt'   Prueba/   Titanic.jpg  'Yo antes de ti.xls'
+
+./Romanticas/Prueba:
+
+./Terror:
+ Annabelle.js  'El hexorcista.xls'  'El juego del miedo.xls'   IT.xls
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ mv ./Accion/Cars.jpg Infantiles
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ ls -R
+.:
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+./Accion:
+'Los vengadores.js'  'Mision imposible.png'   Prueba2/  'Rapido y furioso.pdf'  'Smooth criminal.txt'  'We will rock you.js'
+
+./Accion/Prueba2:
+
+./Comedia:
+'La mascara.js'  'Que paso ayer.pdf'
+
+./Infantiles:
+ Cars.jpg   Intenzamente.txt  'La dama y el bagavundo.png'   Madagaskar.js   Pocahontas.jpg
+
+./Romanticas:
+'Diario de una pasion.js'  'Orgullo y prejuicio.txt'   Prueba/   Titanic.jpg  'Yo antes de ti.xls'
+
+./Romanticas/Prueba:
+
+./Terror:
+ Annabelle.js  'El hexorcista.xls'  'El juego del miedo.xls'   IT.xls
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ cd ../
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD
+$ mv ./Peliculas/Infantiles/"La dama y el bagavundo.png" "La dama y el vagabundo.png"
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD
+$ mv ./Peliculas/Terror/"El hexorcista.xls" "El exorcista.xls"
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD
+$ rm ./Peliculas/Accion/"Smooth criminal.txt" "We will rock you.js"
+rm: cannot remove 'We will rock you.js': No such file or directory
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD
+$ rm ./Peliculas/Accion/"We will rock you.js" ./Peliculas/Accion/"Los vengadores.js"
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD
+$ touch ./Peliculas/Accion/"Los vengadores.js"
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD
+$ ls -R
+.:
+'El exorcista.xls'  'La dama y el vagabundo.png'   Peliculas/   repaso_clase1y2/
+
+./Peliculas:
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+./Peliculas/Accion:
+'Los vengadores.js'  'Mision imposible.png'   Prueba2/  'Rapido y furioso.pdf'
+
+./Peliculas/Accion/Prueba2:
+
+./Peliculas/Comedia:
+'La mascara.js'  'Que paso ayer.pdf'
+
+./Peliculas/Infantiles:
+Cars.jpg  Intenzamente.txt  Madagaskar.js  Pocahontas.jpg
+
+./Peliculas/Romanticas:
+'Diario de una pasion.js'  'Orgullo y prejuicio.txt'   Prueba/   Titanic.jpg  'Yo antes de ti.xls'
+
+./Peliculas/Romanticas/Prueba:
+
+./Peliculas/Terror:
+ Annabelle.js  'El juego del miedo.xls'   IT.xls
+
+./repaso_clase1y2:
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  servidores/
+
+./repaso_clase1y2/historia_de_la_contabilidad:
+
+./repaso_clase1y2/infraestructura:
+
+./repaso_clase1y2/interfaces_de_usuario:
+
+./repaso_clase1y2/que_haremos_hoy:
+
+./repaso_clase1y2/servidores:
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD 
+$ touch ./Peliculas/Accion/Prueba2/noBorrar.js
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD
+$ cd Peliculas
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ mv ./Accion/Prueba2/noBorrar.js ./Romanticas/Prueba
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ cd ../
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD
+$ touch camadax.txt
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD
+$ cd Peliculas
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ mv ./Terror/IT.xls ./Infantiles
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ rm ./CTD/camadax.txt
+ry
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ rm ./CTD camadax.txt
+rm: cannot remove './CTD': No such file or directory
+rm: cannot remove 'camadax.txt': No such file or directory
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ pwd
+/c/Users/aguse/OneDrive/Documentos/CTD/Peliculas
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ rm camadax.txt
+rm: cannot remove 'camadax.txt': No such file or directory
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ rm ../camadax.txt
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ cd Peliculas
+bash: cd: Peliculas: No such file or directory
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$ rm -r ./Romanticas/Prueba
+
+aguse@AgustinGimenez MINGW64 ~/OneDrive/Documentos/CTD/Peliculas
+$

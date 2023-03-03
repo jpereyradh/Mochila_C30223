@@ -1,0 +1,1 @@
+Conjunto de computadoras capaces de atender las peticiones de un cliente y devolverle una respuesta en concordancia.
