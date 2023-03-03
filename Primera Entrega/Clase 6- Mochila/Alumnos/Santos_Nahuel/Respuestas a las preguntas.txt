@@ -1,0 +1,18 @@
+Consignas:
+
+1. ¿Quién inventó el sistema de control de versión Git y por qué?
+2. ¿A quién pertenece actualmente Github y por qué?
+3. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+Respuestas:
+
+1. Lo desarrolló originalmente Linus Torvalds en 2005. Se ideó para posibilitar la ramificación y el etiquetado como procesos de primera importancia. Fue pensado en base a la eficiencia, la 
+confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
+(Fuente:https://es.wikipedia.org/wiki/Git )
+
+2. Actualmente, GitHub le pertenece a Microsoft, que lo compró en 2018 por la cantidad de 7500 millones de dólares. Microsoft tiene la inclinación de enfocarse en el desarrollo, haciendo hincapié en 
+que el núcleo de la empresa lo forman los desarrolladores y nada más.
+(Fuente:https://es.wikipedia.org/wiki/GitHub#:~:text=El%204%20de%20junio%20de,de%207500%20millones%20de%20d%C3%B3lares. )
+
+3. Si, esta seria con GitHub Desktop.
+(Fuente: https://docs.github.com/es/desktop/installing-and-configuring-github-desktop/overview/creating-your-first-repository-using-github-desktop )
