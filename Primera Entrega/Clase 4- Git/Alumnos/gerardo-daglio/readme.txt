@@ -1,0 +1,1 @@
+Se adjunta el resultado del trabajo en equipo correspondiente a la actividad de la clase 4. El nombre del archivo es: actividadClase4.png
