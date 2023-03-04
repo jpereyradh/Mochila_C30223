@@ -1,0 +1,26 @@
+Resumen video Playground.
+
+.1122 AC China. Invencion del abaco.
+.1642 DC Francia. Invencion de la primera calculadora mecanica llamada Pascalina. Pascal.
+.1801 Nuevamnete en Francia. Invencion de las tarjetas perforadoras. Joseph Jacquard.
+.1833-1842 Gran Bretana. Intento de crear la primera computadora. Chales Babbage.
+.1936. Reino Unido. La computadora almacena informaci[on con Alan Turing. Objetivo de descifrar los mensajes alemanes en la segunda guerra mundial. 
+.1943 US. Las chicas del refrigerador. ENIAC. Consideradas las primeras programadoras de la historia.
+.1945 Hungria. Se crea la primera arquitectura de un computador utilizada hasta hoy en d[ia como modelo madre. Von Neumann.
+
+
+¿Quiénes manejaban la famosa super computadora ENIAC?
+.1943 US. Las chicas del refrigerador. ENIAC. Consideradas las primeras programadoras de la historia.
+
+Quien expresó que estamos en la era cognitiva?
+.IBM
+
+¿Quién intentó crear la primera computadora?
+.1833-1842 Gran Bretana. Intento de crear la primera computadora. Chales Babbage.
+
+
+¿Qué deseamos a futuro con la inteligencia artificial?
+Un agente flexible.
+
+¿Con qué propósito creó, en 1936, Alan Turing su famosa máquina?
+Objetivo de descifrar los mensajes alemanes en la segunda guerra mundial. 

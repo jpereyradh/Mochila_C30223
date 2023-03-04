@@ -1,0 +1,32 @@
+Soft y Hardware
+
+La mayoría de las computadoras actuales están inspiradas en el modelo de Von Neumann. A pesar de los años transcurridos desde su publicación, 
+la estructura interna de las computadoras que utilizamos hoy en día, aún conservan la mayor parte de las características propuestas por el matemático y físico húngaro. 
+
+Una computadora es escencialmnte una maquina que:
+
+- recibe datos, 
+- los procesa, 
+- y muestra los resultados. 
+
+Cuando hacemos por ejemplo clic con el boton del mouse, iniciamos informacion que como pulsos electricos que viajan por medios llamados buses de datos.
+La informacion que enviamos es recibida por el cerebro de la computadora CPU Central Process Unit.
+La CPU va a buscar a la memoria, los procesos que tiene que realizar para ejecutar la orden que le dimos.
+
+¿Qué es el CPU?
+Es el encargado de procesar todas las tareas de nuestra PC, a través de la resolución de instrucciones lógicas y matemáticas que están almacenadas en la memoria RAM.
+
+Seleccioná características atribuibles al CPU:
+.Cantidad de nucleos,
+.Tamano de la memoria cache,
+.Frecuencia del reloj.
+
+Seleccionar el componente desde donde toma los datos y las instrucciones el CPU para realizar sus tareas:
+La memoria RAM
+
+
+La potencia del procesador depende de..
+los hilos, los nucleos y la frecuencia.
+
+
+
