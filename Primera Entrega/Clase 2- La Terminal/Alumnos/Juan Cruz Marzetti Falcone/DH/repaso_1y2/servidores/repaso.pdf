@@ -1,0 +1,5 @@
+Estuvmos viendo los servidores en la relación Cliente-Servidor, en tanto el cliente es quien
+ejecuta el request, que puede ser un usuario desde una computadora, o más bien la computadora en si, es decir, un
+navegador web por ejemplo y el Servidor es quien da el response, por ejemplo si el cliente busca www.facebook.com,
+el servidor es quien tiene almacenada esa información y quien le da el response necesario al cliente
+para que pueda entrar al inicio de la página web www.facebook.com

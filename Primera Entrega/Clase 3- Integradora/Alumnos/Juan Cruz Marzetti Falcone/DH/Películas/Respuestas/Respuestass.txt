@@ -1,0 +1,12 @@
+9.
+- $ touch Infantiles Accion Terror Comedia Romanticas
+ en la anterior respuesta tendriamos que haber puesto, antes de ese comando, "cd Pel*".
+
+- touch Infantiles/Intenzamente.txt Infantiles/"El juego del miedo.xls" Infantiles/"Rapido y fuerioso.pdf" Infantiles/Titanic.jpg
+
+- mkdir Películas/Romanticas/Prueba
+
+- mkdir ../Accion/Prueba2 
+
+
+

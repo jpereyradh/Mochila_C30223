@@ -1,0 +1,79 @@
+$ ls
+muestra los archivos/carpetas que hay donde estamos posicionados en la consola.
+
+$ mkdir nombre-de-directorio/carpeta-a-crear
+crea un directorio carpeta
+
+$ rm nombre-de-archivo-a-eliminar
+elimina un archivo
+
+$ touch nombre-de-archivo-a-crear
+crea un archivo, si queremos le podemos agregar una extension para definir su formato. ej: .pdf, .txt, .png, etc.
+
+$ mv especificacion1 especificacion2
+la accion de este comando depende de los archivos/carpetas que le señalemos;
+sirve para cambiar de nombre un archivo, señalando en especificacion1 el nombre del archivo existente y
+en especificacion2 el nuevo nombre que tendrá el archivo (el nombre del archivo especificacion2 no debe existir).
+en segundo lugar sirve para lo mismo de misma manera para renombrar carpetas
+y en tercer lugar sirve para mover un archivo de una carpeta a otra carpeta, señalando en especificacion1
+el nombre del archivo que queremos mover (con su respectiva ruta señalada dependendo de dónde estemos situados
+en la consola), y señalando en especificacion2 la carpeta a donde queremos mover el archivo (la carpeta debe existir).
+puntualmente en este comando hay que ser muy específicos según la acción que queramos hacer.
+
+$ clear
+limpia la terminal
+
+$ cd carpeta-a-la-que-queramos-entrar-y-ubicarnos-desde-ahi-con-la-consola
+cambia a una carpeta
+
+$ cd ..
+sube un nivel de carpeta, es decir, si habiamos hecho un cd entrando a una carpeta, este comando nos regresará
+a la carpeta que estabamos antes.
+
+$ rmdir carpeta-vacia-a-eliminar
+elimina una carpeta vacía
+
+$ rm -r carpeta-con-contenido-a-eliminar
+elimina a una carpeta y a su contenido
+
+$ comando --help
+muestra info del comando especificado
+
+luego tenemos mas comandos relacionados a github, como pueden ser:
+
+$ git init
+inicia un repositorio local en donde estemos ubicados
+
+$ git config user.name "nombre que tengamos en github"
+$ git config user.email "email que tengamos en github"
+estos comandos nos logean en nuestro repositorio local para que nos identifique git como usuarios github de carne y hueso
+
+$ git add .
+agrega todo lo que hayamos creado en esta ubicacion a nuestro repo local, asi esta listo para commitear
+
+$ git commit -m "commit"
+este comando commitea, es decir, todo lo que teniamos del git add . lo metemos en el commit y a este commit
+le ponemos un nombre que represente todo lo que hayamos hecho, o si no es el primer commit, algo que 
+represente el cambio o lo nuevo que hayamos hecho o aportado.
+
+$ git status
+muestra el estado de los archivos de nuestro repo local
+
+$ git remote add origin "url del repo que queramos commitear en github"
+esto vincula nuestro repo local a un repo remoto de github
+
+$ git push origin main
+esto sube el commit que teniamos al repo al que estamos vinculados, al cual ahora nos referimos como "main".
+
+$ git pull origin main
+esto actualiza nuestro repo local con los cambios que hayan sucedido en el repo remoto de git hub al que estamos vinculados.
+
+$ git clone "url de repo de github que queramos clonar en donde estemos parados"
+esto nos clona, como dice la palabra, un repo remoto a donde estamos parados con la consola.
+
+$ git branch "branchMIA"
+esto crea una rama paralela a la rama "main", la cual podemos nombrar.
+
+$ git checkout -b "branchMIA"
+esto me mueve de "main" a la branch existente a la que me refiera, todo lo que haga ahora lo hare en mi rama
+sin hacer cambios a la rama main.
