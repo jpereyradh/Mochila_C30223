@@ -1,0 +1,80 @@
+
+enzo_@Enzo MINGW64 ~/Desktop/DH
+$ pwd
+/c/Users/enzo_/Desktop/DH
+
+enzo_@Enzo MINGW64 ~/Desktop/DH
+$ mv historia_de_la_contabilidad historia_de_lainformatica
+mv: cannot stat 'historia_de_la_contabilidad': No such file or directory
+
+enzo_@Enzo MINGW64 ~/Desktop/DH
+$ mv historia_de_la_informatica historia_de_la_contabilidad
+mv: cannot stat 'historia_de_la_informatica': No such file or directory
+
+enzo_@Enzo MINGW64 ~/Desktop/DH
+$ mv historia_de_la_contabilidad historia_de_la_informatica
+mv: cannot stat 'historia_de_la_contabilidad': No such file or directory
+
+enzo_@Enzo MINGW64 ~/Desktop/DH
+$ cd repaso_clase_1y2
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/repaso_clase_1y2
+$ mv historia_de_la_contabilidad historia_de_la_informatica
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/repaso_clase_1y2
+$ mv que_haremos_hoy software_y_hardware
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/repaso_clase_1y2
+$ mv infraestructura git_bash_y_vscode
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/repaso_clase_1y2
+$ cd git_bash_y_vscode
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/repaso_clase_1y2/git_bash_y_vscode
+$ nano repaso.txt
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/repaso_clase_1y2/git_bash_y_vscode
+$ cd ../
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/repaso_clase_1y2
+$ cd historia_de_la_informatica
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/repaso_clase_1y2/historia_de_la_informatica
+$ nano repaso.docx
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/repaso_clase_1y2/historia_de_la_informatica
+$ nano repaso.docx
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/repaso_clase_1y2/historia_de_la_informatica
+$ nano repaso.docx
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/repaso_clase_1y2/historia_de_la_informatica
+$ cd ../
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/repaso_clase_1y2
+$ cd interfaces_de_usuario
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/repaso_clase_1y2/interfaces_de_usuario
+$ nano repaso.html
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/repaso_clase_1y2/interfaces_de_usuario
+$ cd ../
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/repaso_clase_1y2
+$ cd ./servidores
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/repaso_clase_1y2/servidores
+$ nano repaso.css
+
+enzo_@Enzo MINGW64 ~/Desktop/DH
+$ cd repaso_clase_1y2
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/repaso_clase_1y2
+$ cd software_y_hardware
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/repaso_clase_1y2/software_y_hardware
+$ nano repaso.img
+
+enzo_@Enzo MINGW64 ~/Desktop/DH/repaso_clase_1y2/software_y_hardware
+$
+

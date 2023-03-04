@@ -1,0 +1,78 @@
+ejrcicio (3)
+
+terminal:
+8. 
+enzo_@Enzo MINGW64 ~/desktop/DH/peliculas
+$ ls -R
+.:
+accion/  comedia/  infantiles/  romanticas/  terror/
+
+./accion:
+ cars.jpg                  'el hexorcista.xls'
+'diario de una pasion.js'  'smooth criminal.txt'
+
+./comedia:
+ it.xls   madagaskar.js  'mision imposible.png'  'orgullo y prejuicio.txt'
+
+./infantiles:
+'el juego del miedo.xls'  'rapido y furioso.pdf'
+ intenzamente.txt          titanic.jpg
+
+./romanticas:
+ annabelle.js  'la mascara.js'  'los vengadores.js'   pocahontas.jpg
+
+./terror:
+'la dama y el bagavundo.png'  'we will rock you.js'
+'que paso ayer.pdf'           'yo antes de ti.xls'
+
+enzo_@Enzo MINGW64 ~/desktop/DH/peliculas
+$
+
+9.
+a) enzo_@Enzo MINGW64 ~/desktop/DH/peliculas
+$ ls
+accion/  comedia/  infantiles/  romanticas/  terror/
+
+b) enzo_@Enzo MINGW64 ~/desktop/DH/peliculas
+$ touch ./infantiles/intenzamente.txt ./infantiles/"el juego del miedo.xls" ./infantiles/"rapido y furioso.pdf" ./infantiles/titanic.jpg
+
+c) enzo_@Enzo MINGW64 ~/desktop/DH/peliculas
+$ cd ../
+
+enzo_@Enzo MINGW64 ~/desktop/DH
+$ ls
+peliculas/  repaso_clase_1y2/
+
+enzo_@Enzo MINGW64 ~/desktop/DH
+$ mkdir ./peliculas/romanticas/prueba
+
+enzo_@Enzo MINGW64 ~/desktop/DH
+$ ls ./peliculas/romanticas
+ annabelle.js  'la mascara.js'  'los vengadores.js'   pocahontas.jpg   prueba/
+
+d) enzo_@Enzo MINGW64 ~/desktop/DH
+$ ls
+peliculas/  repaso_clase_1y2/
+
+enzo_@Enzo MINGW64 ~/desktop/DH
+$ cd peliculas
+
+enzo_@Enzo MINGW64 ~/desktop/DH/peliculas
+$ cd romanticas
+
+enzo_@Enzo MINGW64 ~/desktop/DH/peliculas/romanticas
+$ mkdir ../accion/prueba2
+
+enzo_@Enzo MINGW64 ~/desktop/DH/peliculas/romanticas
+$ cd ../
+
+enzo_@Enzo MINGW64 ~/desktop/DH/peliculas
+$ cd accion
+
+enzo_@Enzo MINGW64 ~/desktop/DH/peliculas/accion
+$ ls
+ cars.jpg                  'el hexorcista.xls'  'smooth criminal.txt'
+'diario de una pasion.js'   prueba2/
+
+
+

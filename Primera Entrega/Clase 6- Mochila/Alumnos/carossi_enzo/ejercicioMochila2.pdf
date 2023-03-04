@@ -1,0 +1,11 @@
+comandos mas usados
+git init: crear un repositorio local
+git clone: clonar un repositorio
+git commit -m "nombre del coomit": crear un commit para luego pushear
+git push origin main: pushea los archibos y carpetas a los que le hiciste (git add) o (git add .) a la rama que estes subiendo en este caso al main
+git git add "nombre del archivo" o git add . : esto sirve para aderir archivos al repositorio local que luego se subieran con un commit al repositorio de github
+git branch: sirve para ver la rama donde estas ubicado
+git config user.name: para poder aderir tu usuario de github al reposiutorio
+git config user.email: para aderir tu email de github al rewpositorio
+git add status: sirve para poder ver que archivos estan sin aderir al repositorio local
+git log: sirve para pode verificar los commit
