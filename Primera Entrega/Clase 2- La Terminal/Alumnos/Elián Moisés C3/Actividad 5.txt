@@ -1,0 +1,94 @@
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE
+$ ls -R
+.:
+ CARPETA/  'Certified Tech Developer.pdf'   HORARIOS/   PLAYGROUND.url
+
+./CARPETA:
+ASISTENCIAS/  MATERIAS/  TAREA/
+
+./CARPETA/ASISTENCIAS:
+ASISTENCIAS.txt
+
+./CARPETA/MATERIAS:
+'FRONT END 1 - C3'/  'INTRODUCCIÓN A LA INFORMÁTICA 1 - C3'/  'METODOLOGÍAS DE TRABAJO 1 - C3'/
+
+'./CARPETA/MATERIAS/FRONT END 1 - C3':
+ MAILS.txt  'MÓDULO 1'/
+
+'./CARPETA/MATERIAS/FRONT END 1 - C3/MÓDULO 1':
+'Clase 1 MURAL.url'  'Clase 1A - 2A - 3A - 1S.url'  'CLASE 2'/  'CLASE 3'/
+
+'./CARPETA/MATERIAS/FRONT END 1 - C3/MÓDULO 1/CLASE 2':
+css/  ejemplo  img/
+
+'./CARPETA/MATERIAS/FRONT END 1 - C3/MÓDULO 1/CLASE 2/css':
+
+'./CARPETA/MATERIAS/FRONT END 1 - C3/MÓDULO 1/CLASE 2/img':
+
+'./CARPETA/MATERIAS/FRONT END 1 - C3/MÓDULO 1/CLASE 3':
+PNGs/  SLIDER.png
+
+'./CARPETA/MATERIAS/FRONT END 1 - C3/MÓDULO 1/CLASE 3/PNGs':
+ Amazon-Logo.png   argentina.png   Buscador.png  'logozon (blanco).png'   logozon.png   R.png   USER.png
+
+'./CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3':
+'MÓDULO 1'/  'Relevamiento de dudas - Introducción a la Informática.url'
+
+'./CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1':
+'Clase 1'/  'Clase 2'/
+
+'./CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 1':
+'Actividad Grupal 1.url'
+
+'./CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2':
+'Actividad con Terminal.url'  'HISTORIAL de Comandos GIT Actividad 1.txt'
+'Comandos de terminal.pdf'     repaso_clase1y2/
+
+'./CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2':
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  servidores/
+
+'./CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2/historia_de_la_contabilidad':
+repaso.txt
+
+'./CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2/infraestructura':
+repaso.jpg
+
+'./CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2/interfaces_de_usuario':
+repaso.exe*
+
+'./CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2/que_haremos_hoy':
+repaso.rar
+
+'./CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2/servidores':
+repaso.dat
+
+'./CARPETA/MATERIAS/METODOLOGÍAS DE TRABAJO 1 - C3':
+'Cronograma de Cursada.pdf'  'Planilla ASISTENCIA PÚBLICA'/                     'TPI - Metodologias del trabajo.pdf'
+ MÓDULOS/                    'Programa Taller de Metodologías de Trabajo .pdf'
+
+'./CARPETA/MATERIAS/METODOLOGÍAS DE TRABAJO 1 - C3/MÓDULOS':
+'MÓDULO 1 - (Introducción a Metodologías Ágiles)'/  'MÓDULO 3 - (Agilidad en Movimiento)'/
+'MÓDULO 2 - (Porductos Digitales Ágiles)'/
+
+'./CARPETA/MATERIAS/METODOLOGÍAS DE TRABAJO 1 - C3/MÓDULOS/MÓDULO 1 - (Introducción a Metodologías Ágiles)':
+'Equipo 05'/  'Introducción al Agilismo 1A-2A.url'  'TPI - Metodologias del trabajo.pdf'
+
+'./CARPETA/MATERIAS/METODOLOGÍAS DE TRABAJO 1 - C3/MÓDULOS/MÓDULO 1 - (Introducción a Metodologías Ágiles)/Equipo 05':
+'MURAL - Taller de Trabajo E5.url'
+
+'./CARPETA/MATERIAS/METODOLOGÍAS DE TRABAJO 1 - C3/MÓDULOS/MÓDULO 2 - (Porductos Digitales Ágiles)':
+
+'./CARPETA/MATERIAS/METODOLOGÍAS DE TRABAJO 1 - C3/MÓDULOS/MÓDULO 3 - (Agilidad en Movimiento)':
+
+'./CARPETA/MATERIAS/METODOLOGÍAS DE TRABAJO 1 - C3/Planilla ASISTENCIA PÚBLICA':
+'C3 - Planilla de Asistencia Pública & Equipos TPI - TMA (2).url'
+'C3 - Planilla de Asistencia Pública & Equipos TPI - TMA.url'
+
+./CARPETA/TAREA:
+TAREA.txt
+
+./HORARIOS:
+'SEMANA 1 (13-02 a 17-02)'/
+
+'./HORARIOS/SEMANA 1 (13-02 a 17-02)':
+'Mail Semana 1.url'  'SEMANA 1.pdf'

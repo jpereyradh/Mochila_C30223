@@ -1,0 +1,95 @@
+
+
+A) Sí, de hecho así lo hice yo.
+$ mkdir Infantiles Accion Terror Comedia Romanticas
+
+
+
+B) Sí, de hecho así lo hice yo.
+$ touch Intenzamente.txt "El juego del miedo.xls" "Rapido y Furioso.xls" Titanic.jpg
+
+
+
+C)
+
+
+----(ESTA SERÍA MI CARPETA DH)--------(ESTA SERÍA MI CARPETA DH)--------(ESTA SERÍA MI CARPETA DH)--------(ESTA SERÍA MI CARPETA DH)--------(ESTA SERÍA MI CARPETA DH)----
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+----(ESTA SERÍA MI CARPETA DH)--------(ESTA SERÍA MI CARPETA DH)--------(ESTA SERÍA MI CARPETA DH)--------(ESTA SERÍA MI CARPETA DH)--------(ESTA SERÍA MI CARPETA DH)----
+
+$ ls -R
+.:
+'Actividad 9.txt'  'Actividad con Terminal 2.url'  'Actividades 1-2-3-4-5-6-7-8.txt'   Películas/
+
+./Películas:
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+./Películas/Accion:
+ Cars.jpg  'Diario de una pasion.js'  'El hexorcista.xls'  'Smooth criminal.txt'
+
+./Películas/Comedia:
+ IT.xls   Madagaskar.js  'Mision imposible.png'  'Orgullo y prejuicio.txt'
+
+./Películas/Infantiles:
+'El juego del miedo.xls'   Intenzamente.txt  'Rapido y Furioso.xls'   Titanic.jpg
+
+./Películas/Romanticas:
+ anabelle.js  'La mascara.js'  'Los vengadores.js'   Pocahontas.jpg
+
+./Películas/Terror:
+'La dama y el bagavundo.png'  'Que paso ayer.pdf'  'We will rock you.js'  'Yo antes de ti.xls'
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mkdir "Películas/Romanticas/Prueba"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$
+
+
+D)
+
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3/Películas/Romanticas (main)
+$ pwd
+/c/Users/elian/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3/Películas/Romanticas
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3/Películas/Romanticas (main)
+$ mkdir "../Accion/Prueba2"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3/Películas/Romanticas (main)
+$ cd ../
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3/Películas (main)
+$ ls
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3/Películas (main)
+$ ls -R
+.:
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+./Accion:
+ Cars.jpg  'Diario de una pasion.js'  'El hexorcista.xls'   Prueba2/  'Smooth criminal.txt'
+
+./Accion/Prueba2:
+
+./Comedia:
+ IT.xls   Madagaskar.js  'Mision imposible.png'  'Orgullo y prejuicio.txt'
+
+./Infantiles:
+'El juego del miedo.xls'   Intenzamente.txt  'Rapido y Furioso.xls'   Titanic.jpg
+
+./Romanticas:
+ anabelle.js  'La mascara.js'  'Los vengadores.js'   Pocahontas.jpg   Prueba/
+
+./Romanticas/Prueba:
+
+./Terror:
+'La dama y el bagavundo.png'  'Que paso ayer.pdf'  'We will rock you.js'  'Yo antes de ti.xls'
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3/Películas (main)
+$
+
+
+
+

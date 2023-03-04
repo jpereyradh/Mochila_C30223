@@ -1,0 +1,448 @@
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio
+$ LS
+'Cities Skylines.url'                   Discord.lnk               Photoshop.lnk     TRIP
+ COLEGIO.lnk                            GameRanger.lnk           'Proyecto LENS'   'uTorrent Web.lnk'
+'Counter-Strike Global Offensive.url'  'Microsoft Edge.lnk'       PRUEBA.py
+ desktop.ini                           'Navegador Opera GX.lnk'   STREAM
+'DIGITAL HOUSE'                        'PEDIDO PC.txt'           'The Forest.url'
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio
+$ CD DIGITAL HOUSE
+bash: CD: command not found
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio
+$ CD "DIGITAL HOUSE"
+bash: CD: command not found
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio
+$ CD "DIGITAL HOUSE"
+bash: CD: command not found
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio
+$ cd "DIGITAL HOUSE"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE
+$ ls
+ CARPETA/  'Certified Tech Developer.pdf'   HORARIOS/   PLAYGROUND.url
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE
+$ ls -1
+CARPETA/
+'Certified Tech Developer.pdf'
+HORARIOS/
+PLAYGROUND.url
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE
+$ ls
+ CARPETA/  'Certified Tech Developer.pdf'   HORARIOS/   PLAYGROUND.url
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE
+$ mkdir repaso_ckase1y2
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE
+$ ls
+ CARPETA/  'Certified Tech Developer.pdf'   HORARIOS/   PLAYGROUND.url   repaso_ckase1y2/
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE
+$ mkdir "D:/Users/Onedrive/Escritorio/DIGITAL HOUSE/repaso_ckase1y2" historia_de_la_contabilidad que_haremos_hoy servidores interfaces_de_usuario infraestructura
+mkdir: cannot create directory ‘D:/Users/Onedrive/Escritorio/DIGITAL HOUSE/repaso_ckase1y2’: No such file or directory
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE
+$ mkdir historia_de_la_contabilidad que_haremos_hoy servidores interfaces_de_usuario infraestructura "D:/Users/Onedrive/Escritorio/DIGITAL HOUSE/repaso_ckase1y2"
+mkdir: cannot create directory ‘historia_de_la_contabilidad’: File exists
+mkdir: cannot create directory ‘que_haremos_hoy’: File exists
+mkdir: cannot create directory ‘servidores’: File exists
+mkdir: cannot create directory ‘interfaces_de_usuario’: File exists
+mkdir: cannot create directory ‘infraestructura’: File exists
+mkdir: cannot create directory ‘D:/Users/Onedrive/Escritorio/DIGITAL HOUSE/repaso_ckase1y2’: No such file or directory
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE
+$ ls
+ CARPETA/                        HORARIOS/                PLAYGROUND.url     servidores/
+'Certified Tech Developer.pdf'   infraestructura/         que_haremos_hoy/
+ historia_de_la_contabilidad/    interfaces_de_usuario/   repaso_ckase1y2/
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE
+$ ls -1
+CARPETA/
+'Certified Tech Developer.pdf'
+historia_de_la_contabilidad/
+HORARIOS/
+infraestructura/
+interfaces_de_usuario/
+PLAYGROUND.url
+que_haremos_hoy/
+repaso_ckase1y2/
+servidores/
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE
+$ ls
+ CARPETA/                        HORARIOS/                PLAYGROUND.url     servidores/
+'Certified Tech Developer.pdf'   infraestructura/         que_haremos_hoy/
+ historia_de_la_contabilidad/    interfaces_de_usuario/   repaso_ckase1y2/
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE
+$ mv servidores infraestructura que_haremos_hoy historia_de_la_contabilidad interfaces_de_usuario repaso_ckase1y2 "C:/User/OneDrive/Escritorio/DIGITAL HOUSE/repaso_ckase1y2
+> ls
+> ls
+> $ mv servidores infraestructura que_haremos_hoy historia_de_la_contabilidad interfaces_de_usuario repaso_ckase1y2 "C:/User/OneDrive/Escritorio/DIGITAL HOUSE/repaso_ckase1
+mv: target 'HOUSE/repaso_ckase1' is not a directory
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE
+$ mv servidores infraestructura que_haremos_hoy historia_de_la_contabilidad interfaces_de_usuario repaso_ckase1y2 "C:/User/OneDrive/Escritorio/DIGITAL HOUSE/repaso_ckase1y2$ mv servidores infraestructura que_haremos_hoy historia_de_la_contabilidad interfaces_de_usuario repaso_ckase1y2 "C:/User/OneDrive/Escritorio/DIGITAL HOUSE/repaso_ckase1y2
+mv: target 'HOUSE/repaso_ckase1y2' is not a directory
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE
+$ ls
+ CARPETA/                        HORARIOS/                PLAYGROUND.url     servidores/
+'Certified Tech Developer.pdf'   infraestructura/         que_haremos_hoy/
+ historia_de_la_contabilidad/    interfaces_de_usuario/   repaso_ckase1y2/
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE
+$ mv servidores infraestructura que_haremos_hoy historia_de_la_contabilidad interfaces_de_usuario repaso_ckase1y2 "C:/User/OneDrive/Escritorio/DIGITAL HOUSE/repaso_ckase1y2"
+mv: target 'C:/User/OneDrive/Escritorio/DIGITAL HOUSE/repaso_ckase1y2' is not a directory
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE
+$ $ mv servidores infraestructura que_haremos_hoy historia_de_la_contabilidad interfaces_de_usuario repaso_ckase1y2 "C:/Users/elian/OneDrive/Escritorio/DIGITAL HOUSE/repaso_ckase1y2"
+bash: $: command not found
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE
+$ mv servidores infraestructura que_haremos_hoy historia_de_la_contabilidad interfaces_de_usuario repaso_ckase1y2 "C:/Users/elian/OneDrive/Escritorio/DIGITAL HOUSE/repaso_ckase1y2"
+mv: cannot move 'repaso_ckase1y2' to a subdirectory of itself, 'C:/Users/elian/OneDrive/Escritorio/DIGITAL HOUSE/repaso_ckase1y2/repaso_ckase1y2'
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE
+$ ls
+ CARPETA/  'Certified Tech Developer.pdf'   HORARIOS/   PLAYGROUND.url   repaso_ckase1y2/
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE
+$ mv repaso_ckase1y2 "C:/Users/elian/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA\MATERIAS\INTRODUCCIÓN A LA INFORMÁTICA 1 - C3\MÓDULO 1\Clase 2"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE
+$ LS
+ CARPETA  'Certified Tech Developer.pdf'   HORARIOS   PLAYGROUND.url
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE
+$ CD CARPETA
+bash: CD: command not found
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE
+$ CD "CARPETA"
+bash: CD: command not found
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE
+$ ls
+ CARPETA/  'Certified Tech Developer.pdf'   HORARIOS/   PLAYGROUND.url
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE
+$ CD CARPETA
+bash: CD: command not found
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE
+$ cd CARPETA
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA
+$ ls
+ASISTENCIAS/  MATERIAS/  TAREA/
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA
+$ cd MATERIAS
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS
+$ LS
+'FRONT END 1 - C3'  'INTRODUCCIÓN A LA INFORMÁTICA 1 - C3'  'METODOLOGÍAS DE TRABAJO 1 - C3'
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS
+$ cd INTRODUCCIÓN A LA INFORMÁTICA 1
+bash: cd: too many arguments
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS
+$ ls
+'FRONT END 1 - C3'/  'INTRODUCCIÓN A LA INFORMÁTICA 1 - C3'/  'METODOLOGÍAS DE TRABAJO 1 - C3'/
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS
+$ cd INTRODUCCIÓN A LA INFORMÁTICA 1 - C3
+bash: cd: too many arguments
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS
+$ cd INTRODUCCION A LA INFORMATICA 1 - C3
+bash: cd: too many arguments
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS
+$ cd "INTRODUCCIÓN A LA INFORMÁTICA 1 - C3"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3
+$ LS
+'MÓDULO 1'  'Relevamiento de dudas - Introducción a la Informática.url'
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3
+$ cd MODULO 1
+bash: cd: too many arguments
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3
+$ cd "MODULO 1"
+bash: cd: MODULO 1: No such file or directory
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3
+$ cd "MÓDULO 1"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1
+$ LS
+'Clase 1'  'Clase 2'
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1
+$ cd "Clase 2"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2
+$ ls
+'Actividad con Terminal.url'  'Comandos de terminal.pdf'   repaso_ckase1y2/
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2
+$ mv repaso_ckase1y2 repaso_clase1y2
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2
+$ ls
+'Actividad con Terminal.url'  'Comandos de terminal.pdf'   repaso_clase1y2/
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2
+$ ls
+'Actividad con Terminal.url'  'Comandos de terminal.pdf'   repaso_clase1y2/
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2
+$ cd repaso_clase1y2
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2
+$ ls
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  servidores/
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2
+$ cd historia_de_la_contabilidad
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2/historia_de_la_contabilidad
+$ ls
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2/historia_de_la_contabilidad
+$ ls ../
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  servidores/
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2/historia_de_la_contabilidad
+$ cd ../
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2
+$ ls
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  servidores/
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2
+$ cd ./
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2
+$ ls
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  servidores/
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2
+$ cd ../
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2
+$ ls
+'Actividad con Terminal.url'  'Comandos de terminal.pdf'   repaso_clase1y2/
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2
+$ cd repaso_clase1y2
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2
+$ ls
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  servidores/
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2
+$ cd historia_de_la_contabilidad
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2/historia_de_la_contabilidad
+$ touch "repaso.txt"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2/historia_de_la_contabilidad
+$ ls
+repaso.txt
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2/historia_de_la_contabilidad
+$ cd ../
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2
+$ ls
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  servidores/
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2
+$ cd infraestructura
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2/infraestructura
+$ ls
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2/infraestructura
+$ touch "repaso.jpg"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2/infraestructura
+$ ls
+repaso.jpg
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2/infraestructura
+$ cd ../
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2
+$ ls
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  servidores/
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2
+$ ls -1
+historia_de_la_contabilidad/
+infraestructura/
+interfaces_de_usuario/
+que_haremos_hoy/
+servidores/
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2
+$ ls -R
+.:
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  servidores/
+
+./historia_de_la_contabilidad:
+repaso.txt
+
+./infraestructura:
+repaso.jpg
+
+./interfaces_de_usuario:
+
+./que_haremos_hoy:
+
+./servidores:
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2
+$ cd interfaces_de_usuario
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2/interfaces_de_usuario
+$ touch repaso.exe
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2/interfaces_de_usuario
+$ cd ../
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2
+$ ls
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  servidores/
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2
+$ cd que_haremos_hoy
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2/que_haremos_hoy
+$ ls
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2/que_haremos_hoy
+$ touch "repaso.rar"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2/que_haremos_hoy
+$ cd ../
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2
+$ ls -R
+.:
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  servidores/
+
+./historia_de_la_contabilidad:
+repaso.txt
+
+./infraestructura:
+repaso.jpg
+
+./interfaces_de_usuario:
+repaso.exe*
+
+./que_haremos_hoy:
+repaso.rar
+
+./servidores:
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2
+$ cd servidores
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2/servidores
+$ touch "repaso.dat"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2/servidores
+$ cd ../
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2
+$ ls -R
+.:
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  servidores/
+
+./historia_de_la_contabilidad:
+repaso.txt
+
+./infraestructura:
+repaso.jpg
+
+./interfaces_de_usuario:
+repaso.exe*
+
+./que_haremos_hoy:
+repaso.rar
+
+./servidores:
+repaso.dat
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2
+$ ls
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  servidores/
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2
+$ cs ../
+bash: cs: command not found
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2
+$ ls
+historia_de_la_contabilidad/  infraestructura/  interfaces_de_usuario/  que_haremos_hoy/  servidores/
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2/repaso_clase1y2
+$ cd ../
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2
+$ ls
+'Actividad con Terminal.url'  'Comandos de terminal.pdf'   repaso_clase1y2/
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2
+$ touch "Comandos Usados en GIT"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2
+$ ls
+'Actividad con Terminal.url'  'Comandos de terminal.pdf'  'Comandos Usados en GIT'   repaso_clase1y2/
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2
+$ mv "Comandos Usados en GIT" "Comandos usados en GIT.txt"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2
+$ l
+bash: l: command not found
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2
+$ sls
+bash: sls: command not found
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2
+$ ñs
+bash: ñs: command not found
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2
+$ ls
+'Actividad con Terminal.url'  'Comandos de terminal.pdf'  'Comandos usados en GIT.txt'   repaso_clase1y2/
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2
+$ nano Comandos usados en GIT
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2
+$ nano Comandos usados en GIT.txt
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2
+$ nano Comandos usados en GIT.txt
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2
+$ nano Comandos usados en GIT.txt
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 2
+$ nano "Comandos usados en GIT.txt"

@@ -1,0 +1,337 @@
+
+
+1) LISTO
+
+
+2)--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Accion/Cars.jpg" "Películas/Infantiles"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Accion/Diario de una pasion.js" "Películas/Romanticas"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Accion/El hexorcista.xls" "Películas/Terror"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Comedia/IT" "Películas/Terror"
+mv: cannot stat 'Películas/Comedia/IT': No such file or directory
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Comedia/IT.xls" "Películas/Terror"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Comedia/Madagaskar.js" "Películas/Infantiles"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Comedia/Mision Imposible.png" "Películas/Accion"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Comedia/Orgullo y prejuicio.txt" "Películas/Romanticas"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Infantiles/El juego del miedo.xls" "Películas/Terror"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Infantiles/Rápido y Furioso.xls" "Películas/Accion"
+mv: cannot stat 'Películas/Infantiles/Rápido y Furioso.xls': No such file or directory
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Infantiles/Rapido y Furioso.xls" "Películas/Accion"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Infantiles/Rapido y Furioso.xls" "Películas/Accion"
+mv: cannot stat 'Películas/Infantiles/Rapido y Furioso.xls': No such file or directory
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Infantiles/Titanic.jpg" "Películas/Romanticas"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Romanticas/Anabelle.js" "Películas/Terror"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Romanticas/Anabelle.js" "Películas/Terror"
+mv: cannot stat 'Películas/Romanticas/Anabelle.js': No such file or directory
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Romanticas/La mascara.js" "Películas/Comedia"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Romanticas/Los vengadores" "Películas/Accion"
+mv: cannot stat 'Películas/Romanticas/Los vengadores': No such file or directory
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Romanticas/Los vengadores.js" "Películas/Accion"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Romanticas/Pocahontas.jpg" "Películas/Infantiles"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Terrror/La dama y el vagabundo.png" "Películas/Infantiles"
+mv: cannot stat 'Películas/Terrror/La dama y el vagabundo.png': No such file or directory
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Terror/La dama y el vagabundo.png" "Películas/Infantiles"
+mv: cannot stat 'Películas/Terror/La dama y el vagabundo.png': No such file or directory
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Terror/La dama y el bagavundo.png" "Películas/Infantiles"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Terror/Que paso ayer" "Películas/Comedia"
+mv: cannot stat 'Películas/Terror/Que paso ayer': No such file or directory
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Terror/Que paso ayer.pdf" "Películas/Comedia"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Terror/We will rock you.js" "Películas/Accion"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Terror/Yo antes de ti.xls" "Películas/Romanticas"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$
+
+
+3)--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Accion/Cars.jpg" "Películas/Infantiles"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Accion/Diario de una pasion.js" "Películas/Romanticas"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Accion/El hexorcista.xls" "Películas/Terror"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Comedia/IT" "Películas/Terror"
+mv: cannot stat 'Películas/Comedia/IT': No such file or directory
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Comedia/IT.xls" "Películas/Terror"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Comedia/Madagaskar.js" "Películas/Infantiles"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Comedia/Mision Imposible.png" "Películas/Accion"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Comedia/Orgullo y prejuicio.txt" "Películas/Romanticas"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Infantiles/El juego del miedo.xls" "Películas/Terror"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Infantiles/Rápido y Furioso.xls" "Películas/Accion"
+mv: cannot stat 'Películas/Infantiles/Rápido y Furioso.xls': No such file or directory
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Infantiles/Rapido y Furioso.xls" "Películas/Accion"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Infantiles/Rapido y Furioso.xls" "Películas/Accion"
+mv: cannot stat 'Películas/Infantiles/Rapido y Furioso.xls': No such file or directory
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Infantiles/Titanic.jpg" "Películas/Romanticas"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Romanticas/Anabelle.js" "Películas/Terror"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Romanticas/Anabelle.js" "Películas/Terror"
+mv: cannot stat 'Películas/Romanticas/Anabelle.js': No such file or directory
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Romanticas/La mascara.js" "Películas/Comedia"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Romanticas/Los vengadores" "Películas/Accion"
+mv: cannot stat 'Películas/Romanticas/Los vengadores': No such file or directory
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Romanticas/Los vengadores.js" "Películas/Accion"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Romanticas/Pocahontas.jpg" "Películas/Infantiles"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Terrror/La dama y el vagabundo.png" "Películas/Infantiles"
+mv: cannot stat 'Películas/Terrror/La dama y el vagabundo.png': No such file or directory
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Terror/La dama y el vagabundo.png" "Películas/Infantiles"
+mv: cannot stat 'Películas/Terror/La dama y el vagabundo.png': No such file or directory
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Terror/La dama y el bagavundo.png" "Películas/Infantiles"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Terror/Que paso ayer" "Películas/Comedia"
+mv: cannot stat 'Películas/Terror/Que paso ayer': No such file or directory
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Accion/Rapido y Furioso.xls" "Películas/Accion/Rápidos y Furiosos.xls"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Infantiles/Intenzamente" "Películas/Infantiles/Intensamente"
+mv: cannot stat 'Películas/Infantiles/Intenzamente': No such file or directory
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Infantiles/Intenzamente.txt" "Películas/Infantiles/Intensamente.txt"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Infantiles/La dama y el bagavundo.png" "Películas/Infantiles/La Dama y el Vagabundo.png"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Infantiles/Madagaskar.js" "Películas/Infantiles/Madagascar.js"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Terror/El hexorcista.xls" "Películas/Terror/El Exorcista.xls"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mv "Películas/Terror/El juego del miedo.xls" "Películas/Terror/Los Juegos del Miedo.xls"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$
+
+
+4)--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ pwd
+/c/Users/elian/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - 
+C3/MÓDULO 1/Clase 3
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ rm "Películas/Accion/Smooth criminal.txt"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ rm "Películas/Accion/We will rock you.js"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$
+
+
+5)--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ pwd
+/c/Users/elian/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - 
+C3/MÓDULO 1/Clase 3
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ touch "Películas/Accion/Prueba2/noBorrar.js"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+
+
+6)--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ pwd
+/c/Users/elian/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - 
+C3/MÓDULO 1/Clase 3
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ cd Películas
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3/Películas (main)
+$ ls
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3/Películas (main)
+$ mv "Accion/Prueba2/noBorrar.js" "Romanticas/Prueba"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3/Películas (main)
+$
+
+
+7)--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ pwd
+/c/Users/elian/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - 
+C3/MÓDULO 1/Clase 3
+
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ mkdir camadax.txt
+
+
+8)--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3/Películas (main)
+$ pwd
+/c/Users/elian/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - 
+C3/MÓDULO 1/Clase 3/Películas
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3/Películas (main)
+$ mv "Terror/IT.xls" Infantiles
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3/Películas (main)
+$
+
+
+9)--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3 (main)
+$ pwd
+/c/Users/elian/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - 
+C3/MÓDULO 1/Clase 3
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3/Películas (main)
+$ rm "../camadax.txt"
+rm: cannot remove '../camadax.txt': Is a directory
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3/Películas (main)
+$ rm ../ camadax.txt
+rm: cannot remove '../': Is a directory
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3/Películas (main)
+$ rm "../camadax.txt"
+rm: cannot remove '../camadax.txt': Is a directory
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3/Películas (main)
+$ rmdir "../camadax.txt"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3/Películas (main)
+$
+
+
+10)--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3/Películas (main)
+$ pwd
+/c/Users/elian/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - 
+C3/MÓDULO 1/Clase 3/Películas
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3/Películas (main)
+$ pwd
+/c/Users/elian/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - 
+C3/MÓDULO 1/Clase 3/Películas
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3/Películas (main)
+$ rm -r "Romanticas/Prueba"
+
+elian@DESKTOP-MOPVOBJ MINGW64 ~/OneDrive/Escritorio/DIGITAL HOUSE/CARPETA/MATERIAS/INTRODUCCIÓN A LA INFORMÁTICA 1 - C3/MÓDULO 1/Clase 3/Películas (main)
+$
