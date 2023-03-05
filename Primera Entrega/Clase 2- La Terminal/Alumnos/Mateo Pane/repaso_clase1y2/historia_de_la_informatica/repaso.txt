@@ -1,0 +1,1 @@
+Vimos como crear una carpeta, crear mas carpetas sobre ellas y como crear archivos y escribir dentro de ellos desde la terminal
