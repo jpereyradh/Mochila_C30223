@@ -1,0 +1,60 @@
+Microdesafíos - Mesa IV
+
+Enunciado:
+Nuestro grupo de amigos adquirió una Nintendo Switch con un disco de 32GB y queremos
+instalarle la mayor cantidad de juegos posibles de una lista de 15 juegos que armamos entre
+todos.
+
+The Legend of Zelda: Breath of the Wild: 13,4 GB
+Mario Kart 8 Deluxe: 7168 MB
+Snipperclips: Cut it Out, Together: 1,60 GB
+Disgaea 5: 5,92 GB
+Puyo Puyo Tetris: 1,09 GB
+I Am Setsuna: 1,40 GB
+Dragon Quest Heroes I·II: 0,0000305176 PB
+Nobunaga’s Ambition: 5 GB
+Air Conflicts: Secret Wars: 1572864 KB
+Air Conflicts: Pacific Carriers: 1,4 GB
+Block-a-Pix Deluxe: 84,0 MB
+Cuphead: 3,3 GB
+Gems of War: 458 MB
+Inferno Climber: Reborn: 1,7 GB
+Istanbul: Digital Edition: 330 MB
+
+1) Convertimos todas las unidades de medida a gigabytes.
+
+The Legend of Zelda: Breath of the Wild: 13,4 GB
+Mario Kart 8 Deluxe: 7 GB
+Snipperclips: Cut it Out, Together: 1,60 GB
+Disgaea 5: 5,92 GB
+Puyo Puyo Tetris: 1,09 GB
+I Am Setsuna: 1,40 GB
+Dragon Quest Heroes I·II: 32 GB
+Nobunaga’s Ambition: 5 GB
+Air Conflicts: Secret Wars: 1,5 GB
+Air Conflicts: Pacific Carriers: 1,4 GB
+Block-a-Pix Deluxe: 0,08 GB
+Cuphead: 3,3 GB
+Gems of War: 0,45 GB
+Inferno Climber: Reborn: 1,7 GB
+Istanbul: Digital Edition: 0,32 GB
+
+2) Instalamos los juegos empezando por los que menos pesaban hasta que nos quedamos sin almacenamiento disponible para poder instalar otro.
+
+La lista de juegos instalados nos quedó de la siguiente manera:
+
+Block-a-Pix Deluxe: 0,08 GB
+Istanbul: Digital Edition: 0,32 GB
+Gems of War: 0,45 GB
+Puyo Puyo Tetris: 1,09 GB
+Air Conflicts: Pacific Carriers: 1,4 GB
+I Am Setsuna: 1,40 GB
+Air Conflicts: Secret Wars: 1,5 GB
+Snipperclips: Cut it Out, Together: 1,60 GB
+Inferno Climber: Reborn: 1,7 GB
+Cuphead: 3,3 GB
+Nobunaga’s Ambition: 5 GB
+Disgaea 5: 5,92 GB
+Mario Kart 8 Deluxe: 7 GB
+
+Respuesta final: pudimos instalar 13 juegos en total ocupando 30,76 GB de la capacidad de la consola quedando sin almacenamiento disponible para poder instalar The Legend of Zelda: Breath of the Wild y Dragon Quest Heroes I·II.
