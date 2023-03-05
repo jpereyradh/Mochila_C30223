@@ -1,0 +1,34 @@
+$ mkdir ./Infantiles ./Accion ./Terror ./Comedia ./Romanticas
+$ touch ./Intenzamente.txt ./"El juego del miedo.xls" ./"Rapido y furioso.pdf" ./Titanic.jpg
+$ mkdir /Peliculas/Romanticas/Prueba
+$mkdir ../Accion/Prueba2
+mv ./Peliculas/Infantiles/"Rapido y furioso.pdf" ./Peliculas/Accion
+mv ./Peliculas/Comedia/"Mision imposible.png" ./Peliculas/Accion
+mv ./Peliculas/Infantiles/"El juego del miedo.xls" ./Peliculas/Accion
+mv ./Peliculas/Accion/"Smooth criminal.txt" ./Peliculas/Comedia
+mv ./Peliculas/Infantiles/Titanic.jpg ./Peliculas/Comedia
+mv ./Peliculas/Romantica/"Los vengadores.js" ./Peliculas/Comedia
+mv ./Peliculas/Accion/Cars.jpg ./Peliculas/Infantiles
+mv ./Peliculas/Comedia/Madagaskar.js ./Peliculas/Infantiles
+mv ./Peliculas/Romantica/Pocahontas.jpg ./Peliculas/Infantiles
+mv ./Peliculas/Terror/"Que paso ayer.pdf" ./Peliculas/Comedia
+mv ./Peliculas/Terror/"We will rock you.jg" ./Peliculas/Comedia
+mv ./Peliculas/Terror/"La dama y el bagavundo.png" ./Peliculas/Infantiles
+mv ./Peliculas/Terror/"Yo antes de ti.xls" ./Peliculas/Romantica
+mv ./Peliculas/Infantiles/Intenzamente.txt ./Peliculas/Romantica
+mv ./Peliculas/Accion/"Diario de una pasion.js" ./Peliculas/Romantica
+mv ./Peliculas/Comedia/"Orgullo y prejuicio.txt" ./Peliculas/Romantica
+mv ./Peliculas/Accion/"El hexorcista.xls" ./Peliculas/Terror
+mv ./Peliculas/Comedia/IT.xls ./Peliculas/Terror
+mv ./Peliculas/Romantica/Annabelle.js ./Peliculas/Terror
+mv ./Peliculas/Romantica/"La mascara.js" ./Peliculas/Terror
+mv "La dama y el bagavundo.png" "La dama y el vagabundo.png"
+mv Madagaskar.js Madagascar.js
+rm ./Peliculas/Comedia/"Smooth criminal.txt"
+rm ./Peliculas/Comedia/"We will rock you.jg"
+touch ./Peliculas/Accion/Prueba2/noBorrar.js
+mv ../Peliculas/Accion/Prueba2/noBorrar.js ../Peliculas/Romanticas/Prueba
+touch camadax.txt
+mv ../Peliculas/Terror/IT.xls ../Peliculas/Infantiles
+rm ../camadax.txt
+rm -r ../Peliculas/Romanticas/Prueba
