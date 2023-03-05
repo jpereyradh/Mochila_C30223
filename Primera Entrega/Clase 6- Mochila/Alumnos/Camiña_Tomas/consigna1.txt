@@ -1,0 +1,5 @@
+a. Git fue creado por Linus Torvalds, el creador del kernel de Linux, en el 2005. Torvalds quería una herramienta de control de versiones que fuera rápida, eficiente y escalable para el desarrollo de Linux.
+
+b. En 2018, Microsoft adquirió GitHub por $7.5 mil millones de dólares. La adquisición se realizó porque GitHub es una plataforma popular y ampliamente utilizada para el desarrollo de software, y Microsoft quería ampliar su presencia en el mercado de la tecnología y software.
+
+c. Sí, hay varias formas de trabajar con GitHub que no requieren la terminal. Una de las formas más comunes es utilizar una interfaz gráfica de usuario (GUI) como GitHub Desktop o Sourcetree. Estas herramientas proporcionan una interfaz visual para interactuar con GitHub y realizar tareas como clonar, comprometer y fusionar repositorios. Además, muchos editores de código también tienen integración con GitHub, lo que permite realizar tareas de control de versiones directamente desde el editor.
