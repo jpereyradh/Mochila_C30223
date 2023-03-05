@@ -1,0 +1,2 @@
+las interfaces de usuario nos permiten interactuar con las maquinas de una mejor manera, puede ser
+graficas o de linea de comandos

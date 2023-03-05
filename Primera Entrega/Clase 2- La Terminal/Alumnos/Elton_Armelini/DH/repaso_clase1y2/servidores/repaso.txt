@@ -1,0 +1,1 @@
+los servidores son maquinas que poseen una alta disponibilidad y responde a nuestra peticiones

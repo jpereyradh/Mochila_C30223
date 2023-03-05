@@ -1,0 +1,2 @@
+git bash es una herrmienta que nos permite interctuar con comandos CLI
+vscode es una herrmaienta indispensable para el desarrollo de codigo, este mismo es un IDE

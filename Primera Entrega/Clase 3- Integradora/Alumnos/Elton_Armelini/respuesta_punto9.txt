@@ -1,0 +1,14 @@
+punto 9: 
+* Si se puede
+* Si, asi lo hice. Me ubique en la carpeta correpsondiente y con touch los fui haciendo. 
+* $ cd DH/
+  $ mkdir Peliculas/Romaticas/Prueba
+* $ cd Peliculas/Romaticas/Prueba
+  $ cd ../
+  $ mkdir ../Accion/Prueba2
+
+
+  
+
+
+	
