@@ -1,0 +1,142 @@
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH
+$ cd Peliculas
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ mv ./Accion/Cars.jpg ./Infantiles/Cars.jpg
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ mv ./Accion/"Diario de una pasion.js" ./Romanticas/"Diario de una pasion.js"
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ mv ./Accion/"El hexorcista.xls" ./Terror/"El hexorcista.xls"
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ mv ./Comedia/Madagaskar.js ./Infantiles/Madagaskar.js
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ mv ./Comedia/It.xls ./Terror/It.xls
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ mv ./Comedia/"Mision imposible.png" ./Accion/"Mision imposible.png"
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ mv ./Comedia/"Orgullo y prejuico.txt" ./Romanticas/"Orgullo y prejuicio.txt"
+mv: cannot stat './Comedia/Orgullo y prejuico.txt': No such file or directory
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ mv ./Comedia/"Orgullo y prejuicio.txt" ./Romanticas/"Orgullo y prejuicio.txt"
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ mv ./Infantiles/"El juego del miedo.xls" ./Terror/"El juego del miedo.xls"
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ mv ./Infantiles/"Rapido y furiosos.pdf" ./Accion/"Rapido y furiosos"
+mv: cannot stat './Infantiles/Rapido y furiosos.pdf': No such file or directory
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ mv ./Infantiles/"Rapido y furiosos.pdf" ./Accion/"Rapido y furiosos.pdf"
+mv: cannot stat './Infantiles/Rapido y furiosos.pdf': No such file or directory
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ mv ./Infantiles/"Rapido y furioso.pdf" ./Accion/"Rapido y furioso.pdf"
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ mv ./Infantiles/Titanic.jpg ./Romanticas/Titanic.jpg
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ mv ./Romanticas/Anabelle.js ./Terror/Anabelle.js
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ mv ./Romanticas/"La mascara.js" ./Comedia/"La mascara.js"
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ mv ./Romanticas/"Los vengadores.js" ./Accion/"Los vengadores.js"
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ mv ./Romanticas/Pocahontas ./Infantiles/Pocahontas
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ mv ./Terror/"Yo antes de ti.xls" ./Romanticas/"Yo antes de ti.xls"
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ mv ./Terror/"Que paso ayer.pdf" ./Comedia/"Que paso ayer.pdf"
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ mv ./Terror/"La dama y el bagavundo.png" ./Romanticas/"La dama y el bagavundo.png"
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ mv ./Terror/"El hexorcista.xls" ./Terror/"El exorcista.xls"
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ mv ./Romanticas/"La dama y el bagavundo.png" ./Romanticas/"La dama y el vagabundo.png"
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ mv ./Infantiles/Intenzamente.txt ./Infantiles/Intensamente.txt
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ mv ./Infantiles/Madagaskar.js ./Infantiles/Madagascar.js
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ cd ../
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH
+$ rm "Smooth Criminal.txt"
+rm: cannot remove 'Smooth Criminal.txt': No such file or directory
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH
+$ rm ./Peliculas/Accion/"Smooth criminal.txt"
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH
+$ rm ./Peliculas/Teror/"Well will rock you.js"
+rm: cannot remove './Peliculas/Teror/Well will rock you.js': No such file or directory
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH
+$ rm ./Peliculas/Terror/"Well will rock you.js"
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH
+$ mkdir ./Peliculas/Romanticas/Prueba
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH
+$ cd Peliculas
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ cd Romanticas
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas/Romanticas
+$ mkdir ../Accion/Prueba2
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas/Romanticas
+$ cd ../
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ cd ../
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH
+$ touch ./Peliculas/Accion/Prueba2/noBorrar.js
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH
+$ cd Peliculas
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ mv ./Accion/Prueba2/noBorrar.js ./Romanticas/Prueba/noBorrar.js
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ cd ../
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH
+$ touch camadax.txt
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH
+$ cd Peliculas
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ mv ./Terror/It.xls ./Infantiles/It.xls
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ rm ../camadax.txt
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$ rm -r ./Romanticas/Prueba
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/DH/Peliculas
+$

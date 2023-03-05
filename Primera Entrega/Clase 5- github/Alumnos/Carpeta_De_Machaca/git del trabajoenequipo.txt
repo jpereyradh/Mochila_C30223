@@ -1,0 +1,98 @@
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/TrabajoEnEquipo
+$ git init
+Initialized empty Git repository in C:/Users/Belen/Desktop/TrabajoEnEquipo/.git/
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/TrabajoEnEquipo (main)
+$ git clone https://github.com/enzocarossi/introduccion_1.git
+Cloning into 'introduccion_1'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 6 (delta 0), reused 6 (delta 0), pack-reused 0
+Receiving objects: 100% (6/6), done.
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/TrabajoEnEquipo (main)
+$ cd introduccion_1
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/TrabajoEnEquipo/introduccion_1 (main)
+$ touch 4.txt /.5.txt ./6.txt}
+touch: cannot touch '/.5.txt': Permission denied
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/TrabajoEnEquipo/introduccion_1 (main)
+$ touch 4.txt /.5.txt ./6.txt
+touch: cannot touch '/.5.txt': Permission denied
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/TrabajoEnEquipo/introduccion_1 (main)
+$ touch 4.txt /5.txt ./6.txt
+touch: cannot touch '/5.txt': Permission denied
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/TrabajoEnEquipo/introduccion_1 (main)
+$ touch 4.txt ./5.txt ./6.txt
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/TrabajoEnEquipo/introduccion_1 (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        4.txt
+        5.txt
+        6.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/TrabajoEnEquipo/introduccion_1 (main)
+$ git add .
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/TrabajoEnEquipo/introduccion_1 (main)
+$ git commit -m "commit_4_5_6"
+[main 73dea4a] commit_4_5_6
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 4.txt
+ create mode 100644 5.txt
+ create mode 100644 6.txt
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/TrabajoEnEquipo/introduccion_1 (main)
+$ git push origin main
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 252 bytes | 84.00 KiB/s, done.
+Total 2 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/enzocarossi/introduccion_1.git
+   2f8bde5..73dea4a  main -> main
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/TrabajoEnEquipo/introduccion_1 (main)
+$ git pull origin main
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 4 (delta 2), reused 3 (delta 1), pack-reused 0
+Unpacking objects: 100% (4/4), 422 bytes | 10.00 KiB/s, done.
+From https://github.com/enzocarossi/introduccion_1
+ * branch            main       -> FETCH_HEAD
+   73dea4a..bb3d755  main       -> origin/main
+Updating 73dea4a..bb3d755
+Fast-forward
+ archivo10.js | 0
+ archivo11.js | 0
+ archivo12.js | 0
+ archivo7.jpg | 0
+ archivo8.jpg | 0
+ archivo9.jpg | 0
+ 6 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 archivo10.js
+ create mode 100644 archivo11.js
+ create mode 100644 archivo12.js
+ create mode 100644 archivo7.jpg
+ create mode 100644 archivo8.jpg
+ create mode 100644 archivo9.jpg
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/TrabajoEnEquipo/introduccion_1 (main)
+$ nano archivo9.jpg
+
+Belen@DESKTOP-EK91E7A MINGW64 ~/Desktop/TrabajoEnEquipo/introduccion_1 (main)
+$
