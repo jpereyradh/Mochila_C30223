@@ -1,0 +1,85 @@
+PS C:\Users\Usuario\Desktop\DH> mv ./Películas/Infantiles/Intenzamente ./Películas/Infantiles/Intensamente
+mv : No se encuentra la ruta de acceso 'C:\Users\Usuario\Desktop\DH\Películas\Infantiles\Intenzamente' porque no existe.
+En línea: 1 Carácter: 1
++ mv ./Películas/Infantiles/Intenzamente ./Películas/Infantiles/Intensa ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\Usuari...es\Intenzamente:String) [Move-Item], ItemNotFoundException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.MoveItemCommand
+PS C:\Users\Usuario\Desktop\DH> mv ./Películas/Infantiles/Intenzamente.txt ./Películas/Infantiles/Intensamente.txt
+PS C:\Users\Usuario\Desktop\DH> mv ./Películas/Accion/"Rápido y furioso.pdf" ./Películas/Accion/Rápidos y furiosos.pdf  
+Move-Item : No se encuentra ningún parámetro de posición que acepte el argumento 'y'.
+En línea: 1 Carácter: 1
++ mv ./Películas/Accion/"Rápido y furioso.pdf" ./Películas/Accion/Rápid ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Move-Item], ParameterBindingException
+En línea: 1 Carácter: 1
++ mv ./Películas/Romanticas/"Diario de una pasion" ./Películas/Romantic ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\Usuari...o de una pasion:String) [Move-Item], ItemNotFoundException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.MoveItemCommand
+
+PS C:\Users\Usuario\Desktop\DH> mv ./Películas/Romanticas/"Diario de una pasion.js" ./Películas/Romanticas/"Diario de una pasión.js"
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\Usuari...edia\Madagaskar:String) [Move-Item], ItemNotFoundException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.MoveItemCommand
+
+PS C:\Users\Usuario\Desktop\DH> mv ./Películas/Infantiles/"Madagaskar.js" ./Películas/Infantiles/"Madagascar.js"
+PS C:\Users\Usuario\Desktop\DH> mv ./Películas/Accion/"Mision imposible.png" ./Películas/Accion/"Misión imposible.png"
+PS C:\Users\Usuario\Desktop\DH> mv ./Películas/Comedia/"La mascara.js" ./Películas/Infantiles/"La máscara.js"
+PS C:\Users\Usuario\Desktop\DH> rm ./Películas/Accion/"Smooth Criminal.txt"   
+PS C:\Users\Usuario\Desktop\DH> rm ./Películas/Accion/"We will rock you"   
+rm : No se encuentra la ruta de acceso 'C:\Users\Usuario\Desktop\DH\Películas\Accion\We will rock you' porque no existe.
+En línea: 1 Carácter: 1
++ rm ./Películas/Accion/"We will rock you"
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\Usuari...e will rock you:String) [Remove-Item], ItemNotFoundException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.RemoveItemCommand
+PS C:\Users\Usuario\Desktop\DH> rm ./Películas/Accion/"We will rock you.js"
+touch : El término 'touch' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió correctamente   
+el nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es correcta e inténtelo de nuevo.
+En línea: 1 Carácter: 1
++ touch ./Películas/Accion/Prueba2/noBorrar.js
++ ~~~~~
+    + CategoryInfo          : ObjectNotFound: (touch:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es correcta e inténtelo de nuevo.
+En línea: 1 Carácter: 1
++ nano ./Películas/Accion/Prueba2/noBorrar.js
++ ~~~~
+    + CategoryInfo          : ObjectNotFound: (nano:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\Usuario\Desktop\DH> cd Películas
+PS C:\Users\Usuario\Desktop\DH\Películas> cd ..
+En línea: 1 Carácter: 1
++ camada.txt
++ ~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (camada.txt:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\Usuario\Desktop\DH> echo camada.txt
+PS C:\Users\Usuario\Desktop\DH> cd Películas
+PS C:\Users\Usuario\Desktop\DH\Películas> mv ./Terror/IT.xls ./Infantiles/IT.xls
+PS C:\Users\Usuario\Desktop\DH\Películas> rm cd .. camada.txt
+Remove-Item : No se encuentra ningún parámetro de posición que acepte el argumento '..'.
+En línea: 1 Carácter: 1
++ rm cd .. camada.txt
++ ~~~~~~~~~~~~~~~~~~~
+ 
+PS C:\Users\Usuario\Desktop\DH\Películas> rm ../DH/camada.txt
+rm : No se encuentra la ruta de acceso 'C:\Users\Usuario\Desktop\DH\DH\camada.txt' porque no existe.
+En línea: 1 Carácter: 1
++ rm ../DH/camada.txt
++ ~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\Usuari...H\DH\camada.txt:String) [Remove-Item], ItemNotFoundException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.RemoveItemCommand
+ 
+PS C:\Users\Usuario\Desktop\DH\Películas> rm ../camada.txt
+PS C:\Users\Usuario\Desktop\DH\Películas> rm ./Romanticas/Prueba
+
+Confirmar
+El elemento situado en C:\Users\Usuario\Desktop\DH\Películas\Romanticas\Prueba tiene elementos secundarios y no se especificó el parámetro Recurse. Si      
+continúa, se quitarán todos los secundarios junto con el elemento. ¿Está seguro de que desea continuar?
+[S] Sí  [O] Sí a todo  [N] No  [T] No a todo  [U] Suspender  [?] Ayuda (el valor predeterminado es "S"): S
+PS C:\Users\Usuario\Desktop\DH\Películas> 

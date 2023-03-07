@@ -1,0 +1,147 @@
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH
+$ mkdir Películas
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH
+$ cd Películas
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH/Películas
+$ mkdir Infantiles Accion Terror Comedia Romanticas
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH/Películas
+$ cd infantiles
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH/Películas/infantiles
+$ touch ./DH/Películas/infantiles/intenzamente.txt
+touch: cannot touch './DH/Películas/infantiles/intenzamente.txt': No such file or directory
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH/Películas/infantiles
+$ touch intenzamente.txt/"El juego del miedo.xls"/"Rápido y furioso.pdf"/Titanic.jpg
+touch: cannot touch 'intenzamente.txt/El juego del miedo.xls/Rápido y furioso.pdf/Titanic.jpg': No such file or directory
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH/Películas/infantiles
+$ touch intenzamente.txt
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH/Películas/infantiles
+$ touch "El juego del miedo.xls"
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH/Películas/infantiles
+$ touch "Rápido y furioso.pdf"
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH/Películas/infantiles
+$ touch Titanic.jpg
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH/Películas/infantiles
+$ touch "Smooth criminal.txt" "Diario de una pasion.js" "El hexorcista.xls" Cars.jpg
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH/Películas/infantiles
+$ cd ..
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH/Películas
+$ cd Terror
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH/Películas/Terror
+$ touch "La dama y el bagavundo.png" "Yo antes de ti.xls" "Que paso ayer.pdf" "We will rock you.js"
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH/Películas/Terror
+$ cd ..
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH/Películas
+$ cd Comedia
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH/Películas/Comedia
+$ touch Madagaskar.js "Orgullo y prejuicio.txt" IT.xls "Mision imposible.png"
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH/Películas/Comedia
+$ cd ..
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH/Películas
+$ cd Romantica
+bash: cd: Romantica: No such file or directory
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH/Películas
+$ cd Romanticas
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH/Películas/Romanticas
+$ touch Pocahontas.jpg Annabelle.js "Los vengadores.js" "La mascara.js"
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH/Películas/Romanticas
+$ cd ..
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH/Películas
+$ ls -R
+.:
+Accion/  Comedia/  Infantiles/  Romanticas/  Terror/
+
+./Accion:
+ Cars.jpg                  'El hexorcista.xls'
+'Diario de una pasion.js'  'Smooth criminal.txt'
+
+./Comedia:
+ IT.xls   Madagaskar.js  'Mision imposible.png'  'Orgullo y prejuicio.txt'
+
+./Infantiles:
+'El juego del miedo.xls'   Titanic.jpg
+'Rápido y furioso.pdf'     intenzamente.txt
+
+./Romanticas:
+ Annabelle.js  'La mascara.js'  'Los vengadores.js'   Pocahontas.jpg
+
+./Terror:
+'La dama y el bagavundo.png'  'We will rock you.js'
+'Que paso ayer.pdf'           'Yo antes de ti.xls'
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH/Películas
+$ cd ..
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH
+$ mkdir ./Peliculas/Romanticas Prueba
+mkdir: cannot create directory ‘./Peliculas/Romanticas’: No such file or directory
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH
+$ mkdir ./peliculas/romanticas/Prueba
+mkdir: cannot create directory ‘./peliculas/romanticas/Prueba’: No such file or directory
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH
+$ mkdir ./Pelúculas/Romanticas/Prueba
+mkdir: cannot create directory ‘./Pelúculas/Romanticas/Prueba’: No such file or directory
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH
+$ mkdir ./Películas/Romanticas/Pruba
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH
+$ mv Pruba Prueba
+mv: cannot stat 'Pruba': No such file or directory
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH
+$ mv ./Películas/Romanticas/Pruba Prueba
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH
+$ mkdir ./Películas/Romanticas/Prueba
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH
+$ cd Películas
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH/Películas
+$ cd Romanticas
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH/Películas/Romanticas
+$ cd ..
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH/Películas
+$ mkdir ./Accion/Prueba2
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH/Películas
+$ touch ./Accion/Prueba2/noBorrar.js
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH/Películas
+$ cd ..
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH
+$ echo camada.txt
+camada.txt
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH
+$ touch camada.txt
+
+Usuario@DESKTOP-JG9K36O MINGW64 ~/Desktop/DH
+$
