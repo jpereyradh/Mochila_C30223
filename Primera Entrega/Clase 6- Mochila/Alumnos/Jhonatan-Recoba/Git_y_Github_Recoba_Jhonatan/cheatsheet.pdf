@@ -1,0 +1,6 @@
+1) Crear nuevo repositorio: se realiza a través del comando git init - Este comando permite crear un nuevo repositorio local de la carpeta en la que estamos posicionados.
+2) Clonar un repositorio existente: se realiza a través del comando [git clone url] - Este comando permite descargar una copia del repositorio en GitHub.
+3) Agregar archivos al espacio de trabajo: se reliza a través del comando git add seguido del nombre del archivo a incluir en el espacio. Si se desea agregar todos los archivos, se debe agregar un punto al final del comando. Este comando agrega los archivos a un espacio de preparación, previo a confirmar los cambios.
+4) Confirmar cambios: se realiza a través el comando git commit -m "comentario" - Este comando confirma los cambios realizados por el usuario y crea un nuevo commit con los archivos incluidos en él.
+5) Ver commits realizados: se realiza a través del comando git log: permite ver todos los commits de ese repositorio. También se muestra la fecha y la hora, usuario que lo realizó y un breve resúmen de los cambios realizados.
+

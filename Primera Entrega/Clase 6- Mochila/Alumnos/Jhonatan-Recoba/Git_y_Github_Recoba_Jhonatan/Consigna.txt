@@ -1,0 +1,9 @@
+El sistema de control de versiones fue creado por Linus Torvalds, con el proposito de gestionar proyectos, y poder llevar un registro de los cambios realizados, así como el autor, la fecha y el motivo de dichos cambios, de forma estandarizada y segura para todos los integrantes.
+Este sistema permite coordinar el trabajo de los integrantes de un equipo, de forma tal que todos tengan acceso a todos y cada uno de los cambios que se realizar en este.
+
+Actualmente GIT pertenece a la empresa Microsoft, quien el 4 de junio compró la propiedad de este sistema.
+
+
+Si, existen diversas formas de trabajar con GIT. La primera es a través de CLI, ya sea utilizando la terminal, GitBash e incluso la consola integrada en programas como VSC.
+Otras opciones son descargando el programa Git Desktop, donde a través de una interfaz gráfica, permite ejecutar los mismos comandos y acciones que se realizan a través de la terminal.
+También conozco que existen programas que vienen integrados con este sistema, como por ejemplo el edito VSC, el cual trae integrado la posibilidad de realizar controles de versionado con su propia interfaz gráfica.
