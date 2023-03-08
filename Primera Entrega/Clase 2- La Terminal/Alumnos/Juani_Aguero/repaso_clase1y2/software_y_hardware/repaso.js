@@ -1,0 +1,1 @@
+//La diferencia esta en que el hardware interpreta las ordenes del software para asi poder llevarlas a CSSLayerBlockRule, el hardware es tangible y el software solo existe de manera digital//
