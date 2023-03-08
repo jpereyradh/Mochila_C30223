@@ -1,8 +1,0 @@
-1- Git fue un proyecto desarrollado por Linus Torvalds, el creador del kernel del sistema Linux, en 2005.
-Este tenia la finalidad de posibilitar la ramificacion y el etiquetado como procesos de primera importancia.
-
-2- GitHub pertenece a microsoft desde 2018. 
-Esto lo hizo  para enfocarse todo lo posible al desarrollo, haciendo una vez más hincapié en que el núcleo de la empresa lo forman los desarrolladores y nada más.
-Como dato extra podemos mencionar que lo compraron por 7.500 millones de dolares.
-
-3- Si, podemos hacerlo por ejemplo con VSCode y GitHub Desktop.
