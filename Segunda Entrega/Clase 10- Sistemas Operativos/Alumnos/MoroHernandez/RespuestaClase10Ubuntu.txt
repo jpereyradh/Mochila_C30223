@@ -1,0 +1,14 @@
+En base a lo que se ve en el primer sprint, puedo decir que se ve un
+registro de la cantidad de espacio libre y espacio utilizado en las
+unidades de almacenamieto de mi computadora.
+
+En cuanto al segundo sprint, puedo observar un registro de los procesos 
+de ejecución del sistema en tiempo real, con la hora actual, el tiempo 
+que ha estado el sistema On, el numero de usuarios, las tareas, entre 
+otras cosas.
+
+En comparación con el sistema operativo actual, el comando "df" me 
+muestra el mimso registro de espacio libre, y espacio utilizado, resumido 
+entre el disco local C y el disco D.
+
+Y en cuanto al comando "top", me marca que no exite tal comando.
