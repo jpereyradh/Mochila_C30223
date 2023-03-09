@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+My name is Sebastian I'm 38 year old, I from Salta Argentina
+=======
+Me llamo Fernando y estoy en Intro a la Informatica
+>>>>>>> aa90e6082ada1efa34feb5003808855d8369b9d1

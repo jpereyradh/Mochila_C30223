@@ -1,0 +1,2 @@
+Cargando modificaciones al archivo 1
+Actualizando contenido archivo 1 para compartir en servidor remoto
