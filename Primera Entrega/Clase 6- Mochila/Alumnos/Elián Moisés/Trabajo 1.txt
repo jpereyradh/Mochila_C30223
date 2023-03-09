@@ -1,9 +1,18 @@
-1)-----------------------------------------------------------------------------------------
 
-LISTO: con el comando - git clone https://github.com/jpereyradh/Mochila_C30223.git
+1) ¿Quién inventó el sistema de control de GIT y porqué?
 
-2)-----------------------------------------------------------------------------------------
+El sistema de control de GIT fue creado por Linus Torvalds, lo creó planteando el uso de poder llevar
+registro en los cambios de cada archivo y poder coordinar ese trabajo entre varias personas que estén 
+haciendo modificaciones sobre el mismo. Fue pensado en la eficiencia, confiabilidad y compatibilidad 
+del mantenimiento de versionen en aplicaciones cuando tienen un gran número de código fuente.
+Actualmente GIT es un sistema de control de versiones con funcionalidad completa.
 
-LISTO: con el comando - git branch "Elian_Moises".
+2) ¿A quién pertenece actualmente Github y porqué?
 
-3)
+GitHub le pertenece actualmente a Microsoft debido a que esta empresa la compro a un valor de más de
+7.000.000.000 U$D.
+
+3) ¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+Sí, GitHub te da la opción de descargar su aplicación para escritorio que te permite utilizar github de
+forma más intuitiva con una interfaz gráfica.

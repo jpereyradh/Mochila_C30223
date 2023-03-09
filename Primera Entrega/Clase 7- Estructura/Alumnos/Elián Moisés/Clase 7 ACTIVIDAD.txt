@@ -1,0 +1,12 @@
+
+A) En primer lugar, el procesador para Matilda va a ser el AMD A8-9600, ya que es un procesador que
+cuenta con una gráfica integrada (APU), la cual va a facilitar la ejecución del Cyberpunk 2077 y le
+dará ventaja de procesamiento gráfico sobre los otros procesadores.
+
+B) En segundo lugar, el procesador para Marcelo, será el intel i3-3230, ya que para ejecutar el paquete
+de Suite Office de microsoft no se necesitan muchos requisitos de parte del procesador y en el caso
+de este procesador, para lo que el lo necesica, esos requisitos los cumple y supera.
+
+C) Y en tercer lugar, para el hermano mayor de Marcelo y Matilda, se le dará el AMD Ryzen 5 3600, ya que
+generalmente los programas de diseño suelen exigir un buen procesador y entre los 3 este es el que posee
+más núcleos, memorias caché, y velocidad de latencia o reloj (GHz).
