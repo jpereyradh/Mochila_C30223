@@ -1,0 +1,140 @@
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou (Weixing_Ou)
+$ mkdir Peliculas
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou (Weixing_Ou)
+$ mkdir Peliculas/{Infantiles,Accion,Terror,Comedia,Romanticas}
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou (Weixing_Ou)
+$ touch Peliculas/Infantiles/{Intensamente.txt,"El juego del miedo.xls","Rapido y furioso.pdf",Titanic.jpg}
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou (Weixing_Ou)
+$ touch Peliculas/Accion/{Smooth\ criminal.txt,Diario\ de\ una\ pasion.js,El\ hexorcista.xls,Cars.jpg}
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou (Weixing_Ou)
+$ touch Peliculas/Terror/{La\ dama\ y\ el\ bagavundo.png,Yo\ antes\ de\ ti.xls,Que\ paso\ ayer.pdf,We\ will\ rock\ you.js}
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou (Weixing_Ou)
+$ touch Peliculas/Comedia/{Madagaskar.js,Orgullo\ y\ prejuicio.txt,IT.xls,Mision\ imposible.png}
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou (Weixing_Ou)
+$ touch Peliculas/Romanticas/{Pocahontas.jpg,Annabelle.js,Los\ vengadores.js,La\ mascara.js}
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou (Weixing_Ou)
+$ mkdir Peliculas/Romanticas/Prueba
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou (Weixing_Ou)
+$ cd Peliculas/Romanticas/
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou/Peliculas/Romanticas (Weixing_Ou)
+$ mkdir ../Accion/Prueba2
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou/Peliculas/Romanticas (Weixing_Ou)
+$ cd ..
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou/Peliculas (Weixing_Ou)
+$ Ls -r
+Terror  Romanticas  Infantiles  Comedia  Accion
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou/Peliculas (Weixing_Ou)
+$ mv Accion/Cars.jpg Infantiles/Cars.jpg
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou/Peliculas (Weixing_Ou)
+$ mv Romanticas/Pocahontas.jpg Infantiles/Pocahontas.jpg
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou/Peliculas (Weixing_Ou)
+$ mv Infantiles/El\ juego\ del\ miedo.xls Accion/El\ juego\ del\ miedo.xls
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou/Peliculas (Weixing_Ou)
+$ mv Infantiles/Rapido\ y\ furioso.pdf Accion/Rapido\ y\ furioso.pdf
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou/Peliculas (Weixing_Ou)
+$ mv Comedia/Mision\ imposible.png Accion/Mision\ imposible.png
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou/Peliculas (Weixing_Ou)
+$ mv Romanticas/Los\ vengadores.js Accion/Los\ vengadores.js
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou/Peliculas (Weixing_Ou)
+$ mv Accion/El\ hexorcista.xls Terror/El\ hexorcista.xls
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou/Peliculas (Weixing_Ou)
+$ mv Comedia/IT.xls Terror/IT.xls
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou/Peliculas (Weixing_Ou)
+$ mv Romanticas/Annabelle.js Terror/Annabelle.js
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou/Peliculas (Weixing_Ou)
+$ mv Terror/Que\ paso\ ayer.pdf Comedia/Que\ paso\ ayer.pdf
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou/Peliculas (Weixing_Ou)
+$ mv Romanticas/La\ mascara.js Comedia/La\ mascara.js
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou/Peliculas (Weixing_Ou)
+$ mv Infantiles/Titanic.jpg Romanticas/Titanic.jpg
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou/Peliculas (Weixing_Ou)
+$ mv Accion/Diario\ de\ una\ pasion.js Romanticas/Diario\ de\ una\ pasion.js
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou/Peliculas (Weixing_Ou)
+$ mv Terror/La\ dama\ y\ el\ bagavundo.png Romanticas/La\ dama\ y\ el\ bagavundo.png
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou/Peliculas (Weixing_Ou)
+$ mv Comedia/Orgullo\ y\ prejuicio.txt Romanticas/Orgullo\ y\ prejuicio.txt
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou/Peliculas (Weixing_Ou)
+$ mv Terror/Yo\ antes\ de\ ti.xls Romanticas/Yo\ antes\ de\ ti.xls
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou (Weixing_Ou)
+$ mv Peliculas/Infantiles/Intenzamente.txt Peliculas/Infantiles/Intensamente.txt
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou (Weixing_Ou)
+$ mv Peliculas/Romanticas/Diario\ de\ una\ pasion.js Peliculas/Romanticas/Diario\ de\ una\ pasión.js
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou (Weixing_Ou)
+$ mv Peliculas/Terror/El\ hexorcista.xls Peliculas/Terror/El\ exorcista.xls
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou (Weixing_Ou)
+$ mv Peliculas/Romanticas/La\ dama\ y\ el\ bagavundo.png Peliculas/Romanticas/La\ dama\ y\ el\ vagabundo.png
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou (Weixing_Ou)
+$ mv Peliculas/Comedia/Que\ paso\ ayer.pdf Peliculas/Comedia/Qué\ pasó\ ayer.pdf
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou (Weixing_Ou)
+$ mv Peliculas/Comedia/Madagaskar.js Peliculas/Comedia/Madagascar.js
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou (Weixing_Ou)
+$ mv Peliculas/Accion/Mision\ imposible.png Peliculas/Accion/Misión\ imposible.png
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou (Weixing_Ou)
+$ mv Peliculas/Comedia/La\ mascara.js Peliculas/Comedia/La\ máscara.js
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou (Weixing_Ou)
+$ rm Peliculas/Accion/Smooth\ criminal.txt
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou (Weixing_Ou)
+$ rm Peliculas/Terror/We\ will\ rock\ you.js
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou (Weixing_Ou)
+$ touch Peliculas/Accion/prueba2/noBorrar.js
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou (Weixing_Ou)
+$ cd Peliculas/
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou/Peliculas (Weixing_Ou)
+$ mv Accion/Prueba2/noBorrar.js Romanticas/Prueba/noBorrar.js
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou/Peliculas (Weixing_Ou)
+$ cd ..
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou (Weixing_Ou)
+$ touch camadax.txt
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou (Weixing_Ou)
+$ cd Peliculas/
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou/Peliculas (Weixing_Ou)
+$ mv Terror/IT.xls Infantiles/IT.xls
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou/Peliculas (Weixing_Ou)
+$ rm ../camadax.txt
+
+Administrator@DESKTOP-5T5BP59 MINGW64 ~/Desktop/DigitalHouse/Mochila_C30223/Primera Entrega/Clase 3- Integradora/Alumnos/Weixing_Ou/Peliculas (Weixing_Ou)
+$ rm -r Romanticas/Prueba/
