@@ -1,0 +1,1 @@
+.snackbar-transition-enter-active[data-v-3861ece6]{animation:fadeInTop-3861ece6 .3s cubic-bezier(0,0,.2,1)}.snackbar-transition-leave-active[data-v-3861ece6],.snackbar-transition-leave-to[data-v-3861ece6]{animation:fadeOutTop-3861ece6 .3s cubic-bezier(.4,0,1,1)}@keyframes fadeInTop-3861ece6{0%{opacity:0}to{opacity:1}}@keyframes fadeOutTop-3861ece6{0%{opacity:1}to{opacity:0}}
