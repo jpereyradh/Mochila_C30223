@@ -1,0 +1,25 @@
+1. Ubuntu Studio es una distribucion de GNU/Linux orientada a la edicion multimedia. Posee aplicaciones especificas
+para el trabajo con audio, video y graficos.
+
+2. Al estar basado en Ubuntu, que a su vez es una distribucion de GNU/Linux, es un sistema operativo open source.
+
+3. 
+Minimos:
+CPU: Inter Core 2 Duo
+RAM: 2GB
+Drive: 16GB
+
+Recomendados:
+Intel Core i5
+RAM: 8GB
+Drive: 64GB
+
+4. Al estar basado en ubuntu, se accede de la misma forma que en este. Buscando en la terminal desde el panel
+de aplicaciones o con el atajo Ctrl+Alt+T
+
+5. Intentamos hacerlo desde el onworks pero se requiere una autenticacion de usuario. Si el sistema estuviera
+instalado en una computadora se podria hacer desde la aplicacion de software.
+
+6. Si, tiene instalado el buscaminas y el sudoku.
+
+7. 
