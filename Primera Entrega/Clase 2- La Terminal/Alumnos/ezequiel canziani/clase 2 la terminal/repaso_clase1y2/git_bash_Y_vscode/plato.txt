@@ -1,0 +1,2 @@
+visual studio code o vscode es un ide (entorno de desarollo integrado desarollado por microsoft) cuando hablamos de un IDE nos referimos a un conjunto de herramientas diseñadas para facilitarnos la creaccion y el desarollo de nuestros programas o aplicaciones
+git bash es una aplicacion de terminal que se utiliza como interfaz con un sistema operativo mediante comandos escritos (cli) la terminal es un programa que esta presente en todos los sistemas operativos usando la terminal podemos darle ordenes al sistema.
