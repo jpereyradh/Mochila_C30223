@@ -1,0 +1,5 @@
+Para que los tres puedan usar los programas requeridos, los procesadores se deben distribuir de la siguiente manera:
+
+Intel i3 3230 - Marcelo
+Amd a8 9600 - Hermano mayor
+Amd Ryzen 5 3600 - Matilda
