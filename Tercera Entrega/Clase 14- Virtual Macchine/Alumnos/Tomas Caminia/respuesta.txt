@@ -1,0 +1,42 @@
+GO
+1. Go es un lenguaje de programación concurrente y compilado con tipado estático inspirado en la sintaxis de C, pero con seguridad de memoria y recolección de basura. Ha sido desarrollado por Google​ y sus diseñadores iniciales fueron Robert Griesemer, Rob Pike y Ken Thompson
+
+2 . Go se utiliza normalmente para el desarrollo de aplicaciones de sistemas, servidores web y servicios de red. Debido a su velocidad y eficiencia, Go es una buena opción para aplicaciones de alta concurrencia, como servidores web y servicios de streaming en tiempo real. También es útil para el desarrollo de herramientas de línea de comandos y para la automatización de tareas. Go se utiliza en muchas empresas de tecnología de renombre, como Google, Dropbox y Uber, y es una opción popular entre los desarrolladores que buscan una alternativa más moderna y eficiente a otros lenguajes de programación
+
+3. Como editor de texto una buena opcion es utilizar VSC con la extension .go. Al referirnos de frameworks podemos mencionar a "Gin", un framework para crear aplicaciones web y microservicios de manera rápida y eficiente, y "MongoDB Go Driver", una biblioteca para trabajar con la base de datos NoSQL MongoDB en aplicaciones Go. Otros ejemplos populares incluyen "Echo", "Beego" y "Gorm".
+
+4. 
+package main
+
+import "fmt"
+
+func main() {
+    x := 4
+    y := 5
+    z := x + y
+    fmt.Println(z)
+}
+
+
+C++
+1. Microsoft Visual C++ es un entorno de desarrollo integrado pensado, como su nombre lo dice, para escribir código con C++ y aporta numerosas facilidades al programador. En este caso se utiliza principalmente para el desarrollo de aplicaciones para el sistema operativo Windows.
+
+2. Ejemplos de programas escritos en C/C++ son los sistemas operativos Windows, Mac OS X y Linux, el navegador/buscador Google Chrome, Adobe Acrobat, la página de Amazon, Autodesk, Facebook, Microsoft Office, la suite de programas Mozilla, FIFA EA Sports, Fortnite, etc.
+
+3. Hay varios IDEs y editores de texto populares que se pueden utilizar para programar en C++, incluyendo:
+Microsoft Visual Studio: un IDE popular que incluye muchas herramientas útiles para programar en C++.
+Code::Blocks: un IDE de código abierto y multiplataforma que es muy popular entre los programadores de C++.
+
+4. 
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    int x = 4;
+    int y = 5;
+    int z = x + y;
+    cout << z << endl;
+    return 0;
+}
+9
