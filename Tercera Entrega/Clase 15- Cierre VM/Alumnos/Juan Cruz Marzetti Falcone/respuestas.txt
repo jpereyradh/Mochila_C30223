@@ -1,0 +1,2 @@
+En Ubuntu, puedes descargar e instalar Mozilla Firefox usando el administrador de paquetes APT (Advanced Packaging Tool) y el siguiente comando en la terminal: sudo apt-get install firefox
+
