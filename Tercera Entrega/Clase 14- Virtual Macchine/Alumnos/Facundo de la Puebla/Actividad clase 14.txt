@@ -1,0 +1,24 @@
+Lenguaje C:
+¿Qué tipo de ejecución (compilado, interpretado, etc) tiene el lenguaje? 
+- Tiene lenguaje tipo Compilado
+¿Para qué tipo de desarrollo se utiliza normalmente el lenguaje?
+- Generalmente para sistemas Unix. tiene un tipo de programacion estructurada.
+¿Con que ide o editor de texto puede utilizar el lenguaje?
+- Visual C++ Express.
+- Dev-C++
+- Code::Blocks.
+- etc
+
+
+
+Lenguaje Java script:
+¿Qué tipo de ejecución (compilado, interpretado, etc) tiene el lenguaje? 
+- JavaScript se caracteriza por presentar un modelo de ejecución asíncrono, donde los resultados no se encuentran disposibles inmediatamente, sino que lo estarán en un futuro.
+¿Para qué tipo de desarrollo se utiliza normalmente el lenguaje?
+- Sus usos más importantes son los siguientes: Desarrollo de sitios web del lado del cliente (frontend, en el navegador) Desarrollo de 
+  todo tipo de aplicaciones gracias a la plataforma NodeJS. Desarrollo de aplicaciones para dispositivos móviles, híbridas o que compilan a nativo.
+¿Con que ide o editor de texto puede utilizar el lenguaje?
+- Visual Studio Code.
+- Atom
+- Sublime Text
+- etc
