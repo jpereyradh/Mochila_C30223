@@ -1,0 +1,14 @@
+Grupo 2 - Sala 2, Camada 3.
+
+
+Resolucion de Actividad: 
+
+1. La respuesta es tan sencilla com compleja a la vez, un lenguaje para que funcione correctamente depende que la plataforma sea la destinada a usarse, 
+este mismo debe respetar la arquitectura del CPU y el mismo SO, esto depende mucho del ensablador del SO que este mismo ejecuta las instrucciones que 
+son envivados desde el SO. 
+
+2. Podemos ejecutar varios sitemas operativos: Windos-varias versiones-, Linux-varias versiones y distros-, FreeBSD,Solaris, etc.
+
+3. El hipervisor proporciona a cada máquina virtual los recursos que se le habían asignado, y gestiona la programación de ellos en función de los recursos físicos.
+
+4. Si una VM se rompe a las demas no las afecta, porque son individuales unas de otras, es decir el concepto responde a que cada una es una Computadora propia. 
