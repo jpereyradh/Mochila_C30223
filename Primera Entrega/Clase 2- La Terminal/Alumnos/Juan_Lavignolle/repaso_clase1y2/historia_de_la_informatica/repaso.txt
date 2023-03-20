@@ -1,0 +1,32 @@
+Historia de las computadoras:
+Durante la historia, la tecnología y las computadoras han ido evolucionando gracias al desarrollo de nuevos componentes y diferentes 
+personas que idearon nuevas formas de maximizar la utilización de estos.
+
+Orígenes de la computadora
+
+1122A.C, CHINA: Con la invención del ábaco (Instrumento para hacer operaciones aritméticas) 
+
+1642 D.C, FRANCIA. Blaise Pascal crea la primera calculadora mecánica (Pascalina) 
+tratando de ayudar a su padre con las cuentas del trabajo.
+
+1801, FRANCIA. Joseph Jacquard crea las tarjetas perforadas, forma de guardar info, para que cualquiera pudiera crear diseños de telas
+muy complejos. 
+
+Entre 1833 y 1842, GRAN BRETAÑA. Charles Babbage crea la primera computadora. Ada Lovelace, crea el primer algoritmo. 
+
+1936, REINO UNIDO. Alan Turing crea la máquina de Turing, que logra que la computadora pueda ejecutar programas almacenados. 
+La creó con el propósito de descifrar los mensajes de los Alemanes en la segunda guerra mundial. 
+
+1943, EEUU. Se crea una de las primeras computadoras, con el nombre de ENIAC, operada por “Las chicas del refrigerador”  
+(Consideradas como las primeras programadoras de la historia junto con Ada Lovelace)
+
+1945, HUNGRÍA. Von Neumann, diseñó una arquitectura que establece las pautas que se utilizan hoy en día de cómo una 
+computadora tiene que ser armada para optimizar al máximo sus recursos. 
+Este dió pie a la creación de:
+40s primera generación de computadoras
+60s Transistor-chip
+70s Microchip
+80s Window, Apple, Linux
+
+Para IBM desde el 2011 iniciamos la era cognitiva donde encontramos tecnología que puede ejecutar en 200 segundos cálculos complejos. 
+Esto significa que se va actualizando y mejorando cada vez más la tecnología.

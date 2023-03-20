@@ -1,0 +1,2 @@
+Servidores contienen a la Web, la base de datos, los archivos.
+Los servidores son un conjunto de computadoras que reciben requests y devuelven responses. Estos manejan la informacion que el usuario o el dispositivo que haga el request necesita. 
