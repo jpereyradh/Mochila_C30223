@@ -1,0 +1,48 @@
+Que tipo de ejecución tiene TypeScript?
+
+TypeScript es un lenguaje de programación que se compila a JavaScript antes de ser ejecutado.
+Esto permite a los desarrolladores aprovechar los beneficios de la verificación estática de tipos y otras características avanzadas de TypeScript
+mientras todavía pueden ejecutar su código en cualquier entorno de JavaScript compatible.
+
+Que tipo de ejecución tiene Erlang?
+
+Erlang se ejecuta en la Máquina Virtual de Erlang (BEAM), lo que permite una alta concurrencia, 
+escalabilidad y tolerancia a fallos en aplicaciones concurrentes.
+La BEAM también proporciona herramientas de depuración y monitoreo para facilitar el desarrollo y el mantenimiento de aplicaciones Erlang.
+
+Para que tipo de desarrollo se utiliza TypeScript?
+
+TypeScript es un lenguaje de programación de tipo estático que se utiliza principalmente para el desarrollo de aplicaciones de front-end y back-end en JavaScript.
+
+Para que tipo de desarrollo se utiliza Erlang?
+
+Erlang se utiliza principalmente para el desarrollo de sistemas distribuidos, concurrentes y tolerantes a fallos en tiempo real. 
+Es especialmente adecuado para el desarrollo de sistemas de telecomunicaciones y aplicaciones de mensajería en tiempo real debido a su
+capacidad para manejar grandes cantidades de tráfico de red con alta eficiencia y tolerancia a fallos.
+
+¿Con que ide o editor de texto puede utilizar TypeScript? Nombre de una 
+librería o framework famoso del mismo
+
+TypeScript puede ser utilizado con varios IDEs y editores de texto, VSC siendo el mas famoso.
+
+Un famoso framework de TypeScript es Angular, que es un framework de aplicaciones web desarrollado por Google.
+
+¿Con que ide o editor de texto puede utilizar Erlang? Nombre de una 
+librería o framework famoso del mismo
+
+Erlang puede ser utilizado con varios IDEs y editores de texto, ErlIDE: Es un IDE específico para el desarrollo en Erlang que proporciona un ambiente de desarrollo integrado completo con funciones avanzadas de depuración y navegación de código. 
+También es famoso VSC
+
+Un famoso framework de Erlang es OTP (Open Telecom Platform), que es un conjunto de bibliotecas y herramientas para el desarrollo de sistemas distribuidos, concurrentes y tolerantes a fallos en Erlang.
+
+Investigar y realizar en la sintaxis del lenguaje dado, la siguiente operación 
+matemática: 
+
+○ x = 4
+○ y = 5 
+○ z = x + y 
+○ mostrar por pantalla z
+
+Erlang:  -module(helloworld).  -export([start/0]).   start() ->     X = 4,     Y = 5,     Z = X + Y,     io:fwrite("~w",[Z]).
+
+TypeScript: let x: number = 4; let y: number = 5; let sum: number = x + y; console.log(sum);
