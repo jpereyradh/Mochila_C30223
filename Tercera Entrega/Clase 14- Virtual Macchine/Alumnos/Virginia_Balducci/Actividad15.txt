@@ -1,0 +1,11 @@
+1- Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en otros no?
+Las instrucciones (codigo) que escribimos tienen que compilarse a un codigo que la maquina entienda. Un compilador toma el codigo fuente y lo transforma en el programa ejecutable escrito en codigo maquina, listo para ser ejecutado en nuestra maquina.
+Que funcione o no en otros sistemas operativos, depende del codigo maquina, del ejecutable. Este debe poder ejecutarse correctamente siempre y cuando la maquina donde se compile sea similar a donde se ejecute: debe tener similar arquitectura de CPU y un sistema operativo similar.
+
+2- Que tipo de maquina virtual es virtualBox?
+Es una maquina virtual de tipo "Sistema". Emula un sistema operativo mediante hipervisor de tipo 2 para virtualizar sistemas operativos dentro de nuestra computadora.
+
+3- Si tengo mas de una maquina virtual instalada, y una se rompe, esto afecta a las demas? Por que?
+No afecta a las demas porque cada VM funciona como una computadora individual, independiente del resto.
+
+
