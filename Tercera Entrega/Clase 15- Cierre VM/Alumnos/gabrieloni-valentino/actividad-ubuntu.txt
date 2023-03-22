@@ -1,0 +1,10 @@
+cuestionario:
+1-Los lenguajes de programacion pueden estar diseñados para funcionar en ciertos sistemas operativos
+debido a su arquitectura y caracteristicas unicas, y la compatibilidad con diferentes sistemas operativos
+puede depender de las funciones y bibliotecas disponibles en cada uno
+
+2-virtualbox es una maquina virtual de proceso o "process virtual machine"
+
+3- es la capa de software que permite la virtualizacion, puede ejecutarse o bien directamente sobre el hardware o bien sobre un sistema operativo("host operating system")
+
+4-por lo general no, ya que cada maquina virtual se ejecuta en un entorno aislado y se comporta como una computadora independiente
