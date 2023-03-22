@@ -1,0 +1,31 @@
+Swift y Rust
+
+1) Ambos son lenguaje de tipo Compilado.
+
+2)Swift es un intuitivo lenguaje de programación creado por Apple que permite diseñar apps para iOS, Mac, el Apple TV y el Apple Watch.
+ Rust se utiliza principalmente en aplicaciones donde se requiere seguridad y rendimiento, como en el desarrollo de software de sistemas, redes y servidores, juegos, aplicaciones de inteligencia artificial, entre otros. También se utiliza en el desarrollo de aplicaciones web, especialmente en servidores web, donde su seguridad y rendimiento son importantes para manejar grandes volúmenes de tráfico y datos.
+
+3) Para programar en Swift, puedes utilizar Xcode como IDE (Integrated Development Environment) principal, el cual es desarrollado por Apple y está disponible en macOS.
+También existen otros editores de texto y entornos de desarrollo que permiten programar en Swift, como Visual Studio Code, AppCode, entre otros.
+
+En cuanto a las librerías y frameworks famosos de Swift, uno de los más conocidos es SwiftUI.
+
+Rust es compatible con varios editores de texto y entornos de desarrollo integrados (IDE). Algunos de los editores de texto populares que se utilizan para programar en Rust incluyen Visual Studio Code, Sublime Text, Atom, Vim y Emacs.
+
+En cuanto a los IDEs, algunos de los más populares para programar en Rust son CLion, IntelliJ IDEA y Eclipse. Además, hay un IDE especializado en Rust llamado Rust Studio que se enfoca en proporcionar una experiencia de desarrollo optimizada para el lenguaje Rust.
+
+En cuanto a las librerías y frameworks famosos de Rust, uno de los más conocidos es Tokio, que es una biblioteca para programación de red y E / S asíncronas en Rust. También existen otros frameworks y bibliotecas populares como Rocket.
+
+4) En Rust: 
+fn main() {
+    let x = 4;
+    let y = 5;
+    let z = x + y;
+    println!("{}", z);
+}
+
+En Swift:
+ let x = 4
+let y = 5
+let z = x + y
+print(z)
