@@ -1,0 +1,13 @@
+Direccion ip publica: 2600:450:24d:2fda:c271:d1a6:daa6:ef1c
+Direccion de ip privada: 101.32.1.103
+Mascara de subred: 255.255.255.0
+Direccion mac: A3-A2-51-DD-4C-AD
+
+¿ La IP pública y privada de qué clase son ? 
+- son de clase C
+
+¿ Qué información puedo obtener de la dirección MAC?
+- Marca de nuestra Mother: ASRock Incorporation
+
+
+
