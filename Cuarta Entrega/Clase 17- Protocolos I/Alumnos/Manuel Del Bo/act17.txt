@@ -1,0 +1,9 @@
+IP PRIVADA. . . . . . . . . . . . . ...... : 192.168.56.1
+Máscara de subred . . . . . . . . . . . . .: 255.255.255.0
+MAC. . . . . . . . . . . . ............... : 3C-7C-3F-12-2F-80
+IP PUBLICA ........................................ 181.117.92.75
+
+La IP publica es clase B, la IP PRIVADA es clase C
+
+
+Marca de placa de red: ASUSTek COMPUTER INC.
