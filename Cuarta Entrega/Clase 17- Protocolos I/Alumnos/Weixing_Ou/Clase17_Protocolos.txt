@@ -1,0 +1,5 @@
+Dirección IP Pública: 190.18.182.243 Clase B
+Dirección IP Privada: 192.168.0.149 Clase C
+Máscara de subred: 255.255.255.0
+Dirección MAC: 5C-BA-EF-AB-9E-5B
+Marca de placa de red: CHONGQING FUGUI ELECTRONICS CO.,LTD.
