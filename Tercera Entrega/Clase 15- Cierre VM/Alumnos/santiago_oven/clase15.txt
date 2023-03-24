@@ -1,0 +1,4 @@
+1/porque un lenguaje de programacion compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo.
+2/es un software de virtualizacion para arquitecturas x86/amd64
+3/
+si una falla no afecta al rendimiento del resto, ya que cada una se ejecuta de forma separada.
