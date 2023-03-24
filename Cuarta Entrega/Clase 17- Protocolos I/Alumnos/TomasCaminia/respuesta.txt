@@ -1,0 +1,7 @@
+Ip: 186.137.191.40
+
+Ip privada y mascara:
+Para el adaptador Ethernet Ethernet, la dirección IP privada es 192.168.56.1 y la máscara de subred es 255.255.255.0.
+Para el adaptador de LAN inalámbrica Wi-Fi, la dirección IP privada es 192.168.0.138 y la máscara de subred es 255.255.255.0.
+
+Ip Mac: 0A-00-27-00-00-0D.
