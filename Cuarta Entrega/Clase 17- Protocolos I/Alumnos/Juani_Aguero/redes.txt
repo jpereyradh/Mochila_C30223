@@ -1,0 +1,14 @@
+PUNTO 1: 
+IP PUBLICA: 192.168.56.1
+IP PRIVADA: fe80::c1a2:2622:5bf3:848b%12
+MASCARA: 255.255.255.0
+
+PUNTO 2:
+La red publica es de tipo c
+La red privada es de tipo ¿?
+
+PUNTO 3: 
+
+Al ingresar mi MAC vveo lo siguiente: GIGA-BYTE TECHNOLOGY CO.,LTD. (Placa de red TP link)
+
+
