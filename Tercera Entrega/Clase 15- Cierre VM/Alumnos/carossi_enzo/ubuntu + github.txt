@@ -1,0 +1,30 @@
+actividad ubuntu + github
+
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+
+1. Un lenguaje de programación es un conjunto de reglas y sintaxis que se utilizan para escribir código y crear programas de software. Sin embargo, el código escrito en un lenguaje de programación no se ejecuta directamente en un sistema operativo, sino que necesita ser compilado o interpretado por una herramienta de software específica.
+
+¿Qué tipo de máquina virtual soporta virtualBox?
+
+2. VirtualBox es una plataforma de virtualización que permite ejecutar múltiples sistemas operativos en una única máquina física. VirtualBox soporta varios tipos de máquinas virtuales, incluyendo:
+
+Máquinas virtuales x86 y x64: VirtualBox soporta máquinas virtuales x86 y x64, lo que significa que puede ejecutar sistemas operativos de 32 bits y 64 bits.
+
+Sistemas operativos invitados Windows, macOS, Linux y otros: VirtualBox soporta una amplia variedad de sistemas operativosVirtualBox es una plataforma de virtualización que permite ejecutar múltiples sistemas operativos en una única máquina física. VirtualBox soporta varios tipos de máquinas virtuales, incluyendo:
+
+*Máquinas virtuales x86 y x64: VirtualBox soporta máquinas virtuales x86 y x64, lo que significa que puede ejecutar sistemas operativos de 32 bits y 64 bits.
+
+*Sistemas operativos invitados Windows, macOS, Linux y otros: VirtualBox soporta una amplia variedad de sistemas operativos
+
+¿Qué función cumple el hypervisor en la virtualización?
+
+3. El hypervisor, también conocido como VMM (Virtual Machine Monitor), es un software de virtualización que se ejecuta directamente sobre el hardware físico de la computadora y se encarga de crear y administrar múltiples máquinas virtuales (VM) en la misma máquina física.
+
+La función principal del hypervisor es permitir la compartición de recursos de la máquina física entre las múltiples máquinas virtuales, proporcionando a cada una de ellas un entorno virtual aislado y seguro en el que se ejecutan sus sistemas operativos y aplicaciones.
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+4. En la virtualización, cada máquina virtual se ejecuta de manera aislada del resto, lo que significa que si una máquina virtual se rompe, esto no debería afectar a las demás máquinas virtuales que estén en funcionamiento. La razón de esto es que cada máquina virtual tiene su propio sistema operativo, aplicaciones y archivos, que están separados y protegidos del resto de las máquinas virtuales.
+
+
+
