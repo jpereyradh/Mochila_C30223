@@ -1,0 +1,7 @@
+IP publica: terminal:192.168.0.228 pagina: 181.4.161.13
+IP pribada: 32e6:4124:bc93:74a9%9
+mascara: 255.255.255.0
+MAC:B4.2E.99.09.47.3F 
+
+1. La IP publica es clase C y la IP privada es de clase C
+2. Al ingresar la direccion MAC me arroja esto, GIGA-BYTE TECHNOLOGY CO.,LTD. (placa de red tp-link)
