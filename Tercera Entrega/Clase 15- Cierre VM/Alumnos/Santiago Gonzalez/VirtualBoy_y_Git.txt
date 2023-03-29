@@ -1,0 +1,11 @@
+1- Hay muchos factores que pueden influir en la compatibilidad de un lenguaje de programación con los diferentes sistemas operativos que conocemos.
+ Entre ellos podemos mencionar la arquitectura del hardware, ya que algunos lenguajes de programación están específicamente diseñados para funcionar 
+ en cierta arquitectura de hardware, lo que limita su compatibilidad con otros sistemas operativos que no soportan dicha arquitectura.
+
+2- VirtualBox es una máquina virtual de sistemas, ya que está destinada a correr sistemas operativos en su interior.
+
+3- En general, si una máquina virtual se rompe, esto no debería afectar a las demás máquinas virtuales que se estén ejecutando 
+ en el mismo sistema. Sin embargo, puede haber excepciones dependiendo del tipo de problema que se haya presentado en la máquina virtual que falló.
+
+
+Grupo 5 - Semana 5
