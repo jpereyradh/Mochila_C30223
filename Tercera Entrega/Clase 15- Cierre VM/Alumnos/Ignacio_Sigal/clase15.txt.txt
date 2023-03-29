@@ -1,0 +1,7 @@
+1)Un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no debido a que los sistemas operativos tienen diferentes arquitecturas y formas de manejar los recursos del sistema. Algunos lenguajes de programación pueden ser compilados en código de máquina para una plataforma específica, mientras que otros lenguajes son interpretados y requieren una capa adicional de software para su ejecución en un sistema operativo en particular.
+
+2)VirtualBox soporta varios tipos de máquinas virtuales, incluyendo Windows, Linux, macOS y Solaris.
+
+3)La función del hypervisor en la virtualización es crear y administrar máquinas virtuales, que son entornos de software separados que se ejecutan en una sola máquina física. El hypervisor actúa como una capa de abstracción entre la máquina física y las máquinas virtuales, permitiendo que múltiples sistemas operativos y aplicaciones se ejecuten en la misma máquina física de manera aislada y segura.
+
+4)Si una de las máquinas virtuales se rompe, no debería afectar a las otras máquinas virtuales ya que cada una funciona de manera independiente en su propio entorno virtual. Sin embargo, si la máquina virtual dañada comparte recursos con otras máquinas virtuales, como almacenamiento compartido, red o recursos de procesamiento, entonces la falla podría afectar a las otras máquinas virtuales que dependen de esos recursos.
