@@ -1,0 +1,4 @@
+Mi IP-Pública: 186.123.65.221
+Mi IP-Privada: fe80::e72f:5233:a7e9:1cb5%7
+Máscara de Subred: 255.255.255.0
+Dirección MAC: 1C-1B-0D-AF-A9-65
