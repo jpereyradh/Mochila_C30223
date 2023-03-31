@@ -1,0 +1,40 @@
+ip: 201.231.49.91 
+geolocalizacion País	Argentina
+Ciudad	Olavarría
+Latitud	-36.9018
+Longitud	-60.2855
+ISP	Personal
+
+ip con VPN: 77.111.246.4
+geolocalizacion País	Estados Unidos
+Ciudad	
+Latitud	37.751
+Longitud	-97.822
+ISP	Opera Mini Proxy
+
+ip con TOR: 103.251.167.21
+geolocalizacion País 	Holanda
+Ciudad 	
+Latitud 	52.5378
+Longitud 	5.6966
+ISP 	The Infrastructure Group B.V.
+
+
+Las ips publicas no son las mismas, ya que al usar una vpn estas tomando la localizacion de otro pais
+
+No pude ver el video sin vpn, solo me dejo con la de europa. Esta restringido solo para que lo vea gente de europa
+
+Utilizando tor si pudimos localizar la ip pero te da una aleatoria como si fuera vpn, no la mia.
+
+
+la velocidad sin vpn es de, 293 megas de descarga y 30.47 de subida 
+
+con vpn la descarga es de 8.68 y subida es de 0.00
+
+con tor me aparece un cartel de advertencia que intentan sacarme un ataque de scripting de la pagina, por seguridad no lo hice, me decia advertencia XSS
+
+las velocidades de internet son diferentes ya que al tener diferente ip tiene mucho trafico de paquetes y hace que sea mas lenta cuanto mas lejos este
+
+el ping es a la velocidad que corre mi internet, si estoy en otro servidor con vpn de estados unidos me va a tirar mucho ping debido a que estoy muy lejos del servidor 
+
+si varia, sin vpn voy a 17 de ping que seria argentina y cuando tome la de los otros en una iba a 284 y otra 400ms, porque al tener el servidor mas lejos me tira esa conexion
