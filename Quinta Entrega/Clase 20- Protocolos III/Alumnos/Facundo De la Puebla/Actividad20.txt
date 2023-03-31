@@ -1,0 +1,42 @@
+Opera:
+Ip publica sin vpn: 2300:410:32c:1ada:29d5:44rf:410d:df34
+Ip publica con vpn activada: 2001:67c:2628:647:4::9a
+
+
+Brave:
+Ip publica con Tor activado: 178.218.144.99
+Geolocalizacion: País: Italia
+                 Ciudad: Milán
+                 Latitud: 45.4722
+                 Longitud: 9.1922
+                 ISP: LowHosting Services
+
+
+- ¿Las ip públicas son las mismas? ¿por qué?
+  No, las Ip publicas no son las mismas ya que en el caso de Opera se utiliza una vpn que hacer que la ip cambie porque se conecta
+  a un servidor localizado en EE.UU (en mi caso) y hace que la ip sin vpn no sea la misma que con vpn. Y en brave se conecta a un servidor en Italia que hace que cambie
+  la direccion IP.
+
+- Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+
+sin utilizar vpn no me dejo ver el video. Con la vpn activada en "Europa" en el navegador opera si me dejo verlo. Lo que sucedio fue que el video no esta permitido en todos
+los paises, por lo tanto al conectarse a otra ubicacion en la cual el video si esta permitido, deja verlo.
+
+- En Opera sin VPN debemos consultar nuestra velocidad de subida, bajada y el ping, anotar estos valores.
+
+- Opera sin vpn: Download: 517.19  Upload: 30.91
+- Opera con vpn: Download: 377.64  Upload: 25.13
+- Brave con tor: Download: 11.16   Upload: 1.02
+
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+
+- si, las velocidades en los test son diferentes. creo que sucede esto porque depende de la distancia de conexion, depende de por cuantos dispositivos este pasando,
+  depende tambien de la manera en la que este encriptada.
+
+¿Que significa el valor del ping?
+
+- el valor del ping significa la medida de la latencia.
+
+El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+
+- si, varia por la conexion, por la distancia, es decir, es obvio que la latencia sea mas lenta dependiendo de la distancia de la conexion, mientras mas distancia mas ping.
