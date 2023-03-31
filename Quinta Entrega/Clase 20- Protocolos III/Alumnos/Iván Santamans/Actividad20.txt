@@ -1,0 +1,40 @@
+IP sin VPN: 186.22.56.104
+
+IP con VPN: 77.111.246.4
+
+Geolocalizado: EE.UU
+
+IP con TOR: 192.42.116.195
+
+Geolocalizado: Holanda
+
+Las IP públicas no son las mismas porque las VPN y los servicios de encubrimiento se encargan
+de pasar nuestra información bajo un tunel en la red, camuflando nuestra información.
+
+Sin vpn no pude ver el video
+
+Con vpn tampoco pude ver el video
+
+En Tor no conseguí acceder tampoco
+
+En Opera sin VPN los valores son:
+
+Descarga: 151.91 Carga: 31.05 Ping: 29/17
+
+En Opera con VPN los valores son:
+
+Descarga: 8.78  Carga: 8.01 Ping: 309/308
+
+En Tor los valores son:
+
+Descarga: Nunca termina de cargar la página Carga: Nunca termina de cargar la página Ping: Nunca termina de cargar la página
+
+Las velocidades si son diferentes, yo creo que es porque estamos "localizados" o utilizando servidores de otras partes del mundo por lo tanto
+la información debe de viajar por un largo camino y en ese tiempo está la diferencia de señal.
+
+El valor del "ping" se refiere al tiempo que tarda una pequeña cantidad de datos en viajar desde tu computadora (o dispositivo)
+a un servidor en Internet y viceversa. Es medido en milisegundos (ms).
+
+Varía por lo que comentaba antes, viaja entre varias computadoras y la distancia es mayor. (Eso es lo que tengo entendido)
+
+
