@@ -1,0 +1,13 @@
+Speedtest
+
+con vpn activada: 
+
+Ping 233, subida 1,54mbps y bajada 3.52 mbps
+
+sin vpn activada:
+
+Ping 12, subida 31.47mbps y bajada 94.53
+
+con tor:
+
+Ping 452, subida 0,50mbps y bajada 1,20mbps
