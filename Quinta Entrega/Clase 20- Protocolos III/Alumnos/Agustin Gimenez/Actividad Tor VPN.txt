@@ -1,0 +1,15 @@
+ip publica: 201.231.239.60 
+
+ip opera con VPN: 77.111.246.31 (Estados Unidos)
+ip con tor: 185.220.102.251 (Alemania)
+
+Respuestas:
+1. No, porque la ip se enruta hacia la direccion ip del servidor VPN.
+2. No me deja ver el video sin VPN ni con VPN activada.
+3. Si, el servidor VPN se encuentra en Alemania.
+4. Sin VPN, velocidad de bajada 316.04 Mbps con 124ms, de subida 31.82 Mbps con 287ms.
+5. Con VPN, velocidad de bajada 5.36 Mbps con 199ms, de subida 5.03 Mbps con 206ms.
+6. Con Tor, velocidad de bajada 6.29 Mbps con 729ms, de subida 6.03 Mbps con -ms (no me dice cuanta latencia de subida).
+7. Si. Porque los servidores de las VPN se encuentran en diferentes geolocalizaciones, por ende, el trayecto de la informacion varia.
+8. El valor del ping es el tiempo que tarda en ir y volver la informacion (latencia).
+9. Si. Porque los servidores de las VPN se encuentran en diferentes geolocalizaciones, por ende, el trayecto de la informacion varia.
