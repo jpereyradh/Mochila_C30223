@@ -1,0 +1,42 @@
+OPERA: 
+
+IP sin VPN: 201.231.56.29
+
+IP con VPN: 77.111.246.4, Kingman, Estados Unidos
+
+TOR:
+
+IP con VPN: 185.142.239.49, Ámsterdam, Holanda
+
+Las IP públicas no son las mismas, ya que con la VPN activada la Geolocalización es otra.
+Cuando active la VPN, pude ver el video. Sin la VPN activada, You tube me tiró una advertencia explicando que en mi pais el video no esta disponible.
+
+Usando Tor con la VPN, localizó la IP en Holanda.
+
+Velocidades sin VPN:
+
+DESCARGA Mbps
+94.74
+ SUBIDA Mbps
+31.30
+Ping ms  12  182  22
+
+Velocidades con VPN:
+
+DESCARGA Mbps
+3.99
+ SUBIDA Mbps
+0.42
+Ping ms  324  325  321
+
+Velocidades en Tor y red activada:
+
+Descarga Mbps
+1.52
+Subida Mbps
+2.03
+Ping ms 447 1486 —
+
+Cuando utilizas una VPN, la velocidad de tu conexión puede disminuir debido al proceso de cifrado y descifrado que ocurre entre tu dispositivo y el servidor VPN. Además, la velocidad también puede verse afectada por la distancia entre tu ubicación física y el servidor VPN que estás utilizando.
+El valor del ping es una medida de la latencia o el tiempo que tarda una señal en viajar desde tu dispositivo hasta el servidor y volver. Un valor de ping bajo indica una conexión más rápida y estable, mientras que un valor de ping alto puede indicar una conexión más lenta o inestable.
+Es posible que observes valores de ping diferentes en cada una de las opciones de conexión que mencionas. Esto puede deberse a que cada una de las opciones utiliza diferentes servidores y ubicaciones geográficas para realizar la prueba de ping. Además, la calidad de la conexión y la congestión en la red también pueden afectar los valores de ping.
