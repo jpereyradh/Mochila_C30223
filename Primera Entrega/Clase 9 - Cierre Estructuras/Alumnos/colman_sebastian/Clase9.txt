@@ -1,0 +1,69 @@
+Gama baja - Intel
+	Procesador Core i3 7100
+	Placa madre H110M MSI
+	Memoria principal 8gb RAM DDR4 2133MHZ
+	Memoria secundaria 500GB HDD
+	
+
+	Gama baja - AMD
+	Procesador Ryzen 3 2200
+	Placa madre A320M-H
+	Memoria principal 8gb RAM DDR4 2133MHZ
+	Memoria secundaria 500GB HDD
+	
+
+	Gama baja 
+	
+
+	Procesador Ryzen 3 1200
+	Placa madre A320M-H
+	Memoria principal 2x4GB RAM ddr3 2133mhz
+	Memoria secundaria 1 TB HDD
+	
+
+	Gama media - Intel
+	Procesador Intel i5 3570
+	Placa madre B250M ASUS
+	Memoria principal 2x8 GB RAM ddr4 2400Mhz
+	Memoria secundaria 240GB SSD Kingston
+	GPU GeForce GT 1030 2GD4 LP OC
+	
+
+	Gama media - AMD
+	Procesador Ryzen 2600
+	Placa madre A320M Asrock
+	Memoria principal 16 GB RAM 2666mhz
+	Memoria secundaria 240GB SSD Kingston
+	GPU Geforce GTX 1050 2gb
+	
+
+	Gama media
+	Procesador i7 2100f
+	Placa madre B450M-PLUS II
+	Memoria principal 16 GB ram 2400mhz
+	Memoria secundaria 240 GB SSD Kingston
+	GPU Geforce GTX 1050 Ti 4GB
+	
+
+	Gama alta - Intel
+	Procesador Core i7-10700
+	Placa Madre MSI B365M Pro-VH
+	Memoria principal 2x 16GB RAM 3200MHZ
+	Memoria secundaria 960 GB SSD Kingston
+	GPU Geforce RTX 3060 8gb
+	
+
+	Gama alta - AMD
+	Procesador Amd Ryzen 7 3800xt
+	Placa Madre ASRock x399 Phantom Gaming
+	Memoria principal 2x 16gb 3600MHZ
+	Memoria secundaria 960 GB SSD Kingston
+	GPU RX 6900 XT OC 16 GB
+	
+
+	Gama alta
+	Procesador I7 11700
+	Placa Madre Gigabyte Technology Z390 UD
+	Memoria principal 2x16GB 3200MHZ
+	Memoria secundaria 960 SSD Kingston
+	GPU RTX 3080Ti 12GB

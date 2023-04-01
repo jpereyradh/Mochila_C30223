@@ -1,0 +1,15 @@
+ Comandos mas utilizados para interactuar en la terminal:
+mkdir => creacion de carpetas.
+touch => creacion de archivos.
+cd => navegar entre las carpetas de un directorio.
+mv => mover, cambiar nombre de carpetas, archivos.
+git init => crear un repositorio local.
+git clone => clonar un repositorio remoto en el ordenador.
+git remote -v => verifica si repositorio local y remoto estan sincronizados.
+git config --global user.name "" => introduce el usuario globalmente al bash, de esta manera se ingresa automaticamente para todos los repositorios automaticamente.
+git config --global user.email "" => idem punto anterior pero con el mail registrado en github.
+git status => verifica el estado de los archivos locales.
+git add . => incorpora las modificaciones de los archivos para que sean comitiados y compartidos en el servidor.
+git commit -m "" => prepara los archivos para ser compartidos en Github.
+git push origin xxxx => sube los commit actualizando la version del archivo cargado al repositorio remoto. podemos cargar sobre la rama principal o por alguna especifica sobre la que estemos trabajando.
+git pull  => descarga del repositorio la ultima actualizacion compartida, es recomendable antes de trabajar en un proyecto, para no generar conflictos entre los integrantes del proyecto.
