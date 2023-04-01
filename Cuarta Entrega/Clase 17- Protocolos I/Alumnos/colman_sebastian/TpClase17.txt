@@ -1,0 +1,11 @@
+1: 
+IP PUBLICA: 181.116.201.180
+IP PRIVADA: fe80::5db4:6c4:1e60:256%11
+MASCARA: 255.255.255.0
+
+2:
+La red publica es de tipo c
+
+
+3: 
+Al ingresar mi MAC veo lo siguiente: CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
