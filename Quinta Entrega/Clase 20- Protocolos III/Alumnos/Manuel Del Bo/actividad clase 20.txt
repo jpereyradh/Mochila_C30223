@@ -1,0 +1,44 @@
+Opera sin  VPN: 181.117.92.75 
+Opera cp VPN: 77.111.246.41
+Con tor: 185.220.101.190
+
+-¿Las ip públicas son las mismas? ¿por qué?
+
+No son las mismas, son distinatas ya que la manera de conectarse a la internet es diferente con VPN, Tor(acceso màs seguro y protecciòn de privacidad), o como lo hacemos normalmente. 
+
+-Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, 
+¿que es lo que sucedió?¿Por qué?
+
+De ninguna de las maneras me permite ver el video ya que dice no estar disponible en mi pais.
+
+-Utilizando Tor ¿pudimos localizar la IP ?
+
+Si pude pero es diferente a las otras dos IP que me aparecìan.
+
+VELOCIDAD DE INTERNET
+
+-SIN VPN: 
+
+DESCARGA 296.62MB 
+SUBIDA 29.99MB
+
+.CON VPN: 
+
+DESCARGA: 2.45MB 
+SUBIDA 0.26MB
+
+-CON TOR:
+
+NO ME PERMITIÓ HACER EL TEST
+
+-¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+ 
+Si, son todas diferentes, creo que es porque el acceso a internet sin vpn es directo y con vpn no.
+
+-¿Que significa el valor del ping?
+
+Es un método para determinar la latencia de comunicación entre dos redes
+
+-El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+
+-Si, cn la VPN se reduce el ping.
