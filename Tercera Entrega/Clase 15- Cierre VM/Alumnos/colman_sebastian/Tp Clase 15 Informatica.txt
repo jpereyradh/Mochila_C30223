@@ -1,0 +1,35 @@
+﻿1 - ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?.
+
+
+Un lenguaje de programación puede estar disponible solo en algunos sistemas operativos y no en otros por varias razones:
+Dependencias: algunos lenguajes de programación requieren ciertas bibliotecas o dependencias para funcionar correctamente. Estas dependencias pueden estar disponibles solo en algunos sistemas operativos y no en otros, lo que puede limitar el uso del lenguaje en ciertos sistemas operativos.
+Arquitectura del procesador: algunos lenguajes de programación están diseñados para trabajar solo en procesadores específicos, como x86, ARM o MIPS. Si un sistema operativo no es compatible con la arquitectura del procesador requerido por el lenguaje, no se podrá utilizar.
+Soporte del sistema operativo: algunos lenguajes de programación requieren un soporte específico del sistema operativo para funcionar correctamente. Si el sistema operativo no tiene ese soporte, el lenguaje no se podrá utilizar.
+Políticas y decisiones de los desarrolladores: los desarrolladores de lenguajes de programación pueden elegir no admitir ciertos sistemas operativos por diversas razones, como la falta de recursos para el mantenimiento y el soporte, la falta de demanda del mercado o la incompatibilidad con la filosofía del lenguaje.
+En resumen, la disponibilidad de un lenguaje de programación en un sistema operativo específico depende de múltiples factores, incluyendo dependencias, arquitectura del procesador, soporte del sistema operativo y decisiones de los desarrolladores.
+
+
+2 - ¿Qué tipo de máquina virtual es virtualBox?.
+
+
+VirtualBox es un software de máquina virtual de tipo 2, es decir, un hipervisor de nivel de aplicación. Esto significa que VirtualBox se ejecuta como una aplicación en un sistema operativo existente (anfitrión) y crea un entorno virtual en el que se pueden ejecutar otros sistemas operativos (huéspedes) como si estuvieran en su propia máquina física.
+En contraste, los hipervisores de tipo 1 son sistemas operativos especializados que se ejecutan directamente en el hardware y proporcionan acceso a los recursos del hardware a los sistemas operativos huéspedes. Los hipervisores de tipo 1, también conocidos como hipervisores de nivel de sistema, son comúnmente utilizados en entornos de servidor para virtualización de servidores.
+En resumen, VirtualBox es una máquina virtual de tipo 2 que se ejecuta como una aplicación en un sistema operativo existente y proporciona un entorno virtual para la ejecución de otros sistemas operativos huéspedes.
+
+
+
+
+3 - Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
+demás? ¿por qué?
+
+
+Si una máquina virtual se rompe, generalmente no afecta a las demás máquinas virtuales instaladas en el mismo sistema anfitrión, siempre y cuando el problema no esté relacionado con el hipervisor o el sistema anfitrión en sí.
+
+
+Las máquinas virtuales están diseñadas para funcionar de forma aislada, por lo que cualquier problema que ocurra en una máquina virtual no debería afectar a las demás. Sin embargo, si la causa del problema está relacionada con el hipervisor o el sistema anfitrión, todas las máquinas virtuales podrían verse afectadas.
+
+
+Por ejemplo, si una máquina virtual utiliza un recurso crítico del sistema anfitrión, como el disco duro o la memoria RAM, y este recurso falla, podría provocar la falla de todas las máquinas virtuales que dependen de ese recurso.
+
+
+En general, es importante asegurarse de que el sistema anfitrión y el hipervisor estén en buen estado y se mantengan actualizados para minimizar el riesgo de fallas que podrían afectar a todas las máquinas virtuales instaladas en el sistema. Además, es importante realizar copias de seguridad regulares de las máquinas virtuales para minimizar la pérdida de datos en caso de fallas inesperadas.
