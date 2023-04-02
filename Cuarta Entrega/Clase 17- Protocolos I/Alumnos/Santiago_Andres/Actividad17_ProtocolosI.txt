@@ -1,0 +1,22 @@
+Actividad "Conociendo mis direcciones"
+
+1. Mis direcciones: 
+
+   Link-local IPv6 Address . . . . . : fe80::9472:78fe:54a2:ef18%20(Preferred)
+   IPv4 Address. . . . . . . . . . . : 192.168.10.16(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Physical Address. . . . . . . . . : 20-C1-9B-89-10-16
+
+2. ¿ La IP pública y privada de qué clase son ? 
+ 
+R: Son IPv6 y IPv4 respectivamente
+
+3. ¿ Qué información puedo obtener de la dirección MAC? 
+
+R: La dirección MAC es un identificador único para cada dispositivo de red que se conecta a Internet, incluyendo computadoras, teléfonos inteligentes, tabletas, routers y otros dispositivos de red. La dirección MAC proporciona información sobre el fabricante del dispositivo y el modelo específico del mismo, pero no proporciona información sobre la ubicación geográfica o la dirección IP de ese dispositivo en ese momento. Además, la dirección MAC es útil en la resolución de problemas de conectividad de red, ya que puede utilizarse para identificar y solucionar conflictos de direcciones IP, problemas de seguridad de la red y otros problemas relacionados con la configuración de red de un dispositivo. Sin embargo, es importante tener en cuenta que la dirección MAC no proporciona información precisa sobre la ubicación física o la identidad de una persona o dispositivo, y no debe utilizarse para fines de seguimiento o vigilancia sin el consentimiento adecuado.
+
+4. Verificar que marca de placa de red tenemos.
+
+R: Intel Corporate
+
+

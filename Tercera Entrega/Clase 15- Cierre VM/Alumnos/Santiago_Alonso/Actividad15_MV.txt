@@ -1,0 +1,15 @@
+1. ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+
+R: La compatibilidad de un lenguaje con un sistema operativo depende de la arquitectura de procesador, bibliotecas y dependencias, compilador y entorno de desarrollo, y la interfaz de sistema operativo. Por ejemplo, algunos lenguajes están diseñados para procesadores específicos, por lo que no funcionarán en sistemas con otra arquitectura. Además, el lenguaje también depende de bibliotecas y dependencias específicas para ciertas tareas, y estas pueden no estar disponibles en todos los sistemas operativos. Finalmente, el compilador y el entorno de desarrollo también son importantes, ya que deben estar disponibles en el sistema operativo para que el lenguaje pueda ser utilizado. Por lo tanto, si uno de estos factores no está disponible en un sistema operativo en particular, el lenguaje de programación no se podrá utilizar en ese sistema operativo.
+
+2. ¿Qué tipo de máquina virtual soporta virtualBox?
+
+R: VirtualBox es una plataforma de virtualización de código abierto que es compatible con una variedad de sistemas operativos. VirtualBox puede ejecutarse en Windows, Linux, macOS y Solaris como sistema operativo host. También puede ser utilizado para crear y ejecutar máquinas virtuales que ejecutan una variedad de sistemas operativos invitados, como Windows, Linux, macOS, Solaris y otros sistemas operativos. VirtualBox soporta varios tipos de máquinas virtuales, incluyendo máquinas virtuales completas, máquinas virtuales para exploración, máquinas virtuales en la nube y máquinas virtuales especializadas para desarrollo y prueba de software.
+
+3. ¿Qué función cumple el hypervisor en la virtualización?
+
+R: La función principal del hypervisor es crear y ejecutar múltiples máquinas virtuales en un solo servidor físico. El hypervisor divide los recursos del servidor físico, como CPU, memoria, almacenamiento y redes, entre las máquinas virtuales y garantiza que cada máquina virtual tenga acceso a los recursos necesarios para su funcionamiento. El hypervisor también gestiona el acceso a los dispositivos de entrada y salida, la emulación de hardware y la asignación de recursos.
+
+4. Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+R: Una máquina virtual que se rompe o se bloquea no debería afectar a las otras máquinas virtuales que se están ejecutando en el mismo servidor. El hypervisor proporciona un aislamiento completo entre las diferentes máquinas virtuales, lo que significa que cada una de ellas se ejecuta en su propio entorno virtualizado y no tiene acceso directo al hardware subyacente. Por lo tanto, si una máquina virtual falla, el hypervisor puede detectarlo y aislarlo para evitar que afecte a otras máquinas virtuales. No obstante, es importante tener en cuenta que si una máquina virtual comparte recursos con otras máquinas virtuales, un problema en una máquina virtual podría afectar indirectamente a otras máquinas virtuales que utilizan los mismos recursos.
