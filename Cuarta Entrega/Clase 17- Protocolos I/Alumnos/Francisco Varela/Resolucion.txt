@@ -1,0 +1,9 @@
+IP Publica: 	45.174.148.44
+		Cable Video Imagen Canal 5 S.r.l
+
+IP Privada: 192.168.2.100
+Máscara de Subred: 255.255.255.0
+Dirección MAC: 1C-1B-0D-7C-5C-C0
+
+Mi IP pública es una IP clase A. 
+Con la dirección MAC podemos obtener la información de nuestra placa de red física, por ejemplo la mía es: GIGA-BYTE TECHNOLOGY CO.,LTD.
