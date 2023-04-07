@@ -1,0 +1,11 @@
+Analisis actividad mochila:
+Mi ip sin vpn o tor es la siguiente: 200.122.93.26
+Mi ip en opera al activar el vpn fue:77.111.246.4
+Con la vpn de opera activada mi geolocalizacion fue al oeste de wichita, usa.
+Al conectar tor mi ip fue:185.220.101.160 y mi geolocalizacion fue al noroeste de berlin, alemania.
+
+Las ip no son las mismas. Con la vpn de opera, mi ip fue un clase A, con tor fue clase B y mi ip regular es clase C.
+
+No pude ver el video normal y con vpn tampoco, con tor directamente ni cargo la pagina.
+
+Mi velocidad con vpn fue la mitad aprox de sin, y con tor fue la mitad de la vpn. Lo mismo sucedio con el ping pero a la inversa, el mismo fue en aumento.
