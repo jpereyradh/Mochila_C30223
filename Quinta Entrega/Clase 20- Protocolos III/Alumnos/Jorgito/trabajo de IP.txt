@@ -1,0 +1,21 @@
+Opera: 77.111.246.31
+geolocalizacion:
+pain, estados unidos
+ISO:
+SURF B.V.
+
+Tor: 192.42.116.184
+geolocalizacion:
+pais, holanda
+ISO:
+SURF B.V.
+
+1. las IP publicas no son las mismas, ya que las VPN estan activadas en cada navegador.
+2. no me dejo ver el video en ninguno de los dos casos.
+3. si pude IP 192.42.116.184, geolocalizacion en Holanda.
+
+tarea en mesas:
+1. sin vpn 612.35 de descarga, 30.52 de subida, ping 15
+2. con vpn 5.38 de descarga, 5.02 de subida, ping 202
+3. con tor red activa 3.59 de descarga, 1.40 de subida, ping 423
+4. la valocidad de los tres son distintas ya que las IP registran en distintas partes del mundo por consecuencia 
