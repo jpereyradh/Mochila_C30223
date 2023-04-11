@@ -1,0 +1,19 @@
+velocidad de vpn de tokyo ping de descarga 340, subida 345.
+velocidad de vpn tor (no geolocalizable) ping de descarga: 410, subida 612.
+velocidad sin vpn ping de descarga: 307, subida 360.
+
+1. no son la misma ip, porque al cambiar a vpn crea una nueva ip.
+
+2. lo que sucede es que restringe mediante la localizacion de las ip a las regiones pueden ver el video. 
+
+3. Con Tor no pudimos geolocalizar la IP. Pudimos localizar el país pero no se geolocaliza completamente.
+
+Preguntas sobre velocidad:
+
+1. Las velocidades son diferentes. Creo que sucede porque las vpns tienden a un cambio de red al estar
+ geolocalizadas en otra parte del mundo.
+
+2. El ping es un método para determinar la latencia de comunicación entre dos redes.
+
+3.Si varía, está especificado al principio de este documento. La velocidad es más lenta con Tor, y la más rápida
+es sin vpn, la 2da más rápida es con vpn normal. 
