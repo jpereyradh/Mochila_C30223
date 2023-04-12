@@ -1,0 +1,27 @@
+Dirección IP Pública
+
+IPv4: 186.22.56.104
+IPv6: 2800:810:596:1e56:ed36:3d93:b8e:aa68
+
+IP Privada 192.168.0.108
+Máscara de subred: 255.255.255.0
+
+MAC : 7C-10-C9-8C-98-78
+
+La IP pública es de clase B
+
+La IP privada es de clase C
+
+
+
+A)Fabricante: los tres primeros bytes de la dirección MAC identifican al fabricante de la tarjeta de red. Esto se debe a que los fabricantes de dispositivos tienen un rango de direcciones MAC asignado y pueden ser identificados por esos primeros bytes.
+
+B)Tipo de dispositivo: la dirección MAC también puede utilizarse para determinar el tipo de dispositivo, como si es una computadora, un teléfono inteligente, una impresora, etc.
+
+C)Localización: en algunos casos, se puede utilizar la dirección MAC para rastrear la ubicación física del dispositivo en una red. Sin embargo, esto requiere acceso a información adicional, como los registros del servidor DHCP o los registros de ubicación de los puntos de acceso inalámbricos.
+
+D)Seguridad: la dirección MAC se utiliza en muchos sistemas de seguridad para permitir o denegar el acceso a la red a un dispositivo en particular. Por ejemplo, los routers inalámbricos utilizan la dirección MAC para filtrar el acceso a la red.
+
+
+mi marca de mother es ASUSTek
+
