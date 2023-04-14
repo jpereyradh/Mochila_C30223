@@ -1,0 +1,12 @@
+PUNTO 1: 
+IP PUBLICA: 192.168.55.1
+IP PRIVADA: fe80::c1a2:2647:5bf3:848b%24
+MASCARA: 255.255.255.0
+
+PUNTO 2:
+La red publica es de tipo c
+La red privada es de tipo ¿?
+
+PUNTO 3:
+
+direc MAC: 2S:D5:88:D8:Y4:55

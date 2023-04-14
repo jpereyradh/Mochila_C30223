@@ -1,0 +1,8 @@
+1-iniciar un repositorio: git init
+2-clonar un repositorio: git clone
+3-añadir archivos al repositorio: git add
+4-comitear archivos: git commit -m "nombre del commit"
+5-subir archivos al repositorio:git push origin NOMBRE_RAMA
+6-descargar archivos del repo: git pull origin NOMBRE_RAMA
+7-crear rama:git branch NOMBRE_RAMA
+8-movernos a una rama:git checkout NOMBRE_RAMA
