@@ -1,0 +1,31 @@
+¿Qué tipo de ejecución (compilado, interpretado, etc) tiene el lenguaje?
+¿Para qué tipo de desarrollo se utiliza normalmente el lenguaje?
+
+Fortran (Formula Translation) es un lenguaje de programación que se compila en código máquina, aunque también es posible utilizarlo de forma interpretada para pruebas rápidas o prototipos de código.
+
+Perl es un lenguaje de programación interpretado que permite una ejecución rápida y cambios en el código sobre la marcha sin necesidad de recompilarlo. Es adecuado para tareas de scripting y automatización gracias a su rapidez y flexibilidad. El intérprete de Perl analiza el código fuente y lo ejecuta directamente.
+
+¿Para qué tipo de desarrollo se utiliza normalmente el lenguaje?
+
+Fortran se utiliza principalmente en los campos pioneros de la computación como la ciencia y la ingeniería. Algunos ejemplos son: predicción numérica del tiempo y los oceanos, fluidodinámica computacional, matemáticas aplicadas, estadística y finanzas. Pearl fue desarrollado originalmente para la manipulación de texto y ahora se usa para una amplia gama de tareas, incluida la administración de sistemas, desarrollo web, programación de redes, desarrollo de GUI y más.
+¿Con que ide o editor de texto puede utilizar el lenguaje? Nombre de una 
+librería o framework famoso del mismo.
+Fortran usa Codeblocks, Geany, Platón y editores multipropósito predeterminados de Mac / Linux / Unix y shell predeterminado. Pearl usa Notepad++, Sublime Text, Atom, Vim, Emacs, algunos ides que soportan pearl son Eclipse con el plugin de Perl, ActiveState Komodo IDE, Padre.
+Investigar y realizar en la sintaxis del lenguaje dado, la siguiente operación matemática: 
+ x = 4   y = 5   z = x + y 
+ mostrar por pantalla z
+En fortran:
+program main
+    integer:: x, y, z
+    x=4
+    y=5
+    z=x+y
+    write (*,*)"el resultado de la suma es de ", z
+end program main
+
+En pearl:
+my $x = 4;
+my $y = 5;
+my $z = $x + $y;
+
+print "El resultado de la suma es: $z\n";

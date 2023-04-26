@@ -1,0 +1,7 @@
+AMD Ryzen 5 3600: Este procesador es conocido por ser ideal para juegos de alta gama y tareas intensivas de procesamiento. Tiene una velocidad base de 3.6 GHz y una velocidad turbo de 4.2 GHz, lo que lo hace ideal para juegos exigentes como el Cyberpunk 2077. Por lo tanto, se puede deducir que este procesador es el que le corresponde a Matilda para jugar al Cyberpunk 2077.
+
+AMD A8 9600: Este procesador es conocido por ser de bajo costo y ideal para tareas informáticas básicas. Tiene una velocidad base de 3.1 GHz y una velocidad turbo de 3.4 GHz, lo que lo hace ideal para tareas de oficina como la suite de Office 2019. Por lo tanto, se puede deducir que este procesador es el que le corresponde a Marcelo para ejecutar la suite de Office 2019.
+
+Intel i3 3230: Este procesador es conocido por ser ideal para tareas de edición de video y procesamiento de gráficos. Tiene una velocidad base de 3.2 GHz y una velocidad turbo de 3.4 GHz, lo que lo hace ideal para tareas de edición de video en programas como Wondershare Filmora X. Por lo tanto, se puede deducir que este procesador es el que le corresponde a mi hermano mayor para hacer ediciones de video en Wondershare Filmora X.
+
+En conclusión, el AMD Ryzen 5 3600 es para Matilda, el AMD A8 9600 es para Marcelo y el Intel i3 3230 es para mi hermano mayor.
